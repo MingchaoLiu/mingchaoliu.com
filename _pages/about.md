@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mechanics of Meta-materials and Machine-materials (M^3)"
+title: "Mechanics of Meta-materials and Meta-structures (M^3)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
