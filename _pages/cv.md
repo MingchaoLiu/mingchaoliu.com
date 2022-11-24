@@ -10,50 +10,52 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+--------
+* PhD in Engineering (Sept. 2013 – July 2018)
+  * Major: Mechanics
+  * Department of Engineering Mechanics, Tsinghua University
+  * Supervisor: Prof. Changqing Chen
+  * Thesis Title: Liquid penetration and effective properties in porous media
+
+* Visiting PhD Student (Jan. – July 2015) and Endeavour Research Fellow (June – Dec. 2017)
+  * School of Civil Engineering, The University of Sydney
+  * Supervisor: Prof. Yixiang Gan
+  * Project Title: Hydro-(chemo)-mechanical model for porous media
+
+* Bachelor of Engineering (Sept. 2009 – July 2013)
+  * Major: Engineering Mechanics
+  * School of Civil Engineering, Shandong University
+  * Thesis Title: Analysis of the fracture properties of porous materials with diffusion
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+--------
+* June 2022 - now: Assistant Professor
+  * University of Birmingham
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* February 2022 - now: Presidential Postdoctoral Fellow
+  * Nanyang Technological University
+  * Host Mentor: Prof. K. Jimmy Hsia
 
-Publications
-======
+* December 2018 - February 2022: Research Fellow
+  * University of Oxford
+  * Host Supervisor: Prof. Dominic Vella
+
+Grants and Independent Fellowships
+--------
+* Presidential Postdoctoral Fellowship, Nanyang Technological University (2021), S$400K
+
+* Newton International Fellowship, The Royal Society (2018 –2021), £106K
+
+* Endeavour Research Fellowship, Australian Department of Education (2017), A$25K
+
+Selected Publications
+--------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+--------
+* Youth Editorial Board: *Soft Science*
+
+* Referee in peer-reviewed journals: *Extreme Mechanics Letters*; *Proceedings of the Royal Society A*; *Physics of Fluids*; *Polymer Testing*; *Acta Mechanica Sinica*; *The European Physical Journal Plus*
