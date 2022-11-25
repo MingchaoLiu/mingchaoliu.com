@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Mingchao Liu, Dr"
-  avatar           : #"profile.png"
-  bio              : #"Assistant Professor at University of Birmingham"
+  name             : "Mingchao Liu, Dr"
+  avatar           : "profile.png"
+  bio              : "Assistant Professor at University of Birmingham"
   location         : #"Location"
-  employer         : #"University of Birmingham"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en"
-  email            : #"m.liu.2 (at) bham.ac.uk"
-  researchgate     : #"https://www.researchgate.net/profile/Mingchao-Liu-2"
+  employer         : "University of Birmingham"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en"
+  email            : "m.liu.2 (at) bham.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Mingchao-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"Mingchao_Liu"
+  twitter          : "Mingchao_Liu"
   vine             :
   weibo            :
   xing             :
