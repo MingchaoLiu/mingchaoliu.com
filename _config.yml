@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor at University of Birmingham"
   location         : #"Location"
   employer         : "University of Birmingham"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en"
   email            : "m.liu.2 (at) bham.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Mingchao-Liu-2"
