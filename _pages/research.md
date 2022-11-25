@@ -25,6 +25,4 @@ Deployable metamaterials with multistep transformation (Sci. Adv., 2020)
 
 Modelling of Soft Robots
 --------
-
-
-
+The studies about soft robots will come soon...
