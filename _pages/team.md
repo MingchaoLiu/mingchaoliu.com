@@ -8,12 +8,12 @@ author_profile: true
 
 PhD Students
 --------
-We are looking for PhD students/visiting students to join our group! Please check out the advertisement here and apply if you are interested!
+We are currently looking for PhD students/visiting students to join our group! Please check out the advertisement here and apply if you are interested!
 
 
 Research Associate
 --------
-* Weining Mao
+* Weining Mao (taken the position at NTU)
   * M.Sc. in Civil Engineering, Imperial College London, UK (2018-2019)
   * B.Eng. in Civil Engineering, University of Edinburgh, UK (2016-2018)
 
