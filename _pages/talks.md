@@ -7,14 +7,15 @@ author_profile: true
 
 Conference Presentations
 --------
-1.	Liu M., Gomez, M., Vella, D. Delayed bifurcation in elastic snap-through. APS March Meeting 2021, Virtual meeting. (Oral presentation)
-2.	Liu M., Domino L., Vella D. Spider-morphs: Designing 3D shapes from multiple tapered elasticæ. APS March Meeting 2020, Denver, USA. (Virtual meeting, Oral presentation)
-3.	Liu M., Vella D. Effects of boundary conditions on snap-through instabilities. SES 2019, St. Louis, USA (Oral presentation)
-4.	Liu M., Wu J., Gan Y., Chen, C. Multiscale modeling of effective elastic properties of fluid-filled porous materials. Biot Conference-2017, Paris, France. (Poster presentation)
-5.	Liu M., Wu J., Gan Y. Hanaor D., Chen, C. Evaporation limited capillary penetration in porous media. IWMEM 2016, Sydney, Australia. (Oral presentation & Section Chair)
-6.	Liu M., Gan Y. Wu J., Chen C. Surface effect on the adsorption-induced deformation of ordered porous material. ICTAM 2016, Montréal, Canada. (Poster presentation)
-7.	Liu M., Flores-Johnson E., Shen L., Chen C., Gan Y., Numerical simulations of wrinkling by patterned defects in metal thin films. ICCM 2015, Auckland, New Zealand. (Oral presentation)
-8.	Liu M. & Chen C. Fracture of saturated porous media: A two-dimensional model analysis. APCFS/SIF-2014, Sydney, Australia. (Oral presentation)
+9.	Liu M., Yang X., Huang C., Vella, D., Wang Y. Hsia, K. J. Strain-mismatch enabled shape- morphing metamaterials: from artificial plants to architected structures, PlasmoMat-2022, London, UK. (Invited presentation)
+8.	Liu M., Gomez, M., Vella, D. Delayed bifurcation in elastic snap-through. APS March Meeting 2021, Virtual meeting. (Oral presentation)
+7.	Liu M., Domino L., Vella D. Spider-morphs: Designing 3D shapes from multiple tapered elasticæ. APS March Meeting 2020, Denver, USA. (Virtual meeting, Oral presentation)
+6.	Liu M., Vella D. Effects of boundary conditions on snap-through instabilities. SES 2019, St. Louis, USA (Oral presentation)
+5.	Liu M., Wu J., Gan Y., Chen, C. Multiscale modeling of effective elastic properties of fluid-filled porous materials. Biot Conference-2017, Paris, France. (Poster presentation)
+4.	Liu M., Wu J., Gan Y. Hanaor D., Chen, C. Evaporation limited capillary penetration in porous media. IWMEM 2016, Sydney, Australia. (Oral presentation & Section Chair)
+3.	Liu M., Gan Y. Wu J., Chen C. Surface effect on the adsorption-induced deformation of ordered porous material. ICTAM 2016, Montréal, Canada. (Poster presentation)
+2.	Liu M., Flores-Johnson E., Shen L., Chen C., Gan Y., Numerical simulations of wrinkling by patterned defects in metal thin films. ICCM 2015, Auckland, New Zealand. (Oral presentation)
+1.	Liu M. & Chen C. Fracture of saturated porous media: A two-dimensional model analysis. APCFS/SIF-2014, Sydney, Australia. (Oral presentation)
 
 Invited Seminars
 --------
