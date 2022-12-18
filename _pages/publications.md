@@ -10,8 +10,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Forthcoming**
 
 1. Wang, Y.†, Wang, Q.†, **Liu, M.**, Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* Insect-scale jumping robots enabled by a dynamic buckling cascade. Proc. Natl. Acad. Sci. U.S.A. Accepted.
-1. Huang, W., **Liu, M.**\*, Hsia, JK.\* A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under review.
-1. Huang, W., **Liu, M.**\*, Hsia, JK.\* Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Under review.
+1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under review.
+1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Under review.
 1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under review.
 
 
