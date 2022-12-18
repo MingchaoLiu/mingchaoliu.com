@@ -7,41 +7,41 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
-Forthcoming
+**Forthcoming**
 
-1. Wang, Y.†, Wang, Q.†, Liu, M., Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* Insect-scale jumping robots enabled by a dynamic buckling cascade. Proc. Natl. Acad. Sci. U.S.A. Accepted.
-1. Huang, W., Liu, M.\*, Hsia, JK.\* A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under review.
-1. Huang, W., Liu, M.\*, Hsia, JK.\* Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Under review.
-1. Kansaraa, H., Liu, M.\*, He, Y., Tan, W.\* Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under review.
+1. Wang, Y.†, Wang, Q.†, **Liu, M.**, Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* Insect-scale jumping robots enabled by a dynamic buckling cascade. Proc. Natl. Acad. Sci. U.S.A. Accepted.
+1. Huang, W., **Liu, M.**\*, Hsia, JK.\* A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under review.
+1. Huang, W., **Liu, M.**\*, Hsia, JK.\* Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Under review.
+1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under review.
 
 
-Published
+**Published**
 
-1. Liu, M., Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
-1. Mao, J.\*, Wang, S., Tan, W.\*, Liu, M.\* (2022). [Modular multistable metamaterials with reprogrammable mechanical properties.](https://doi.org/10.1016/j.engstruct.2022.114976) Eng. Struct., 272, 114976.
-1. Ma, C., Zhang, Y., Jiao, S.\*, & Liu, M.\* (2022). [Snap-through of graphene nanowrinkles under out-of-plane compression.](https://10.0.4.64/1361-6528/ac9418) Nanotechnology, 34(1), 015705.
-1. Zhang, Y., Yang, J., Liu, M.\*, Vella, D. (2022). [Shape-morphing structures based on perforated kirigami.](https://doi.org/10.1016/j.eml.2022.101857) **Extre. Mech. Lett.**, 56, 101857.
-1. Meng, Z., Liu, M., Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460.
-1. Liu, M., Gomez, M., Vella, D.\* (2021). [Delayed bifurcation in elastic snap-through instabilities.](https://doi.org/10.1016/j.jmps.2021.104386) **J Mech. Phys. Solids**, 151, 104386.
-1. Jiao, S., Liu, M.\* (2021). [Snap-through in graphene nanochannel: With application to fluidic control.](https://doi.org/10.1021/acsami.0c16468) ACS Appl. Mater. Interfaces, 13 (1), 1158–1168.
-1. Wang, Q., Liu, M., Wang, Z., Chen, C., Wu, J.\* (2021). [Large deformation and instability of soft hollow cylinder with surface effects.](https://doi.org/10.1115/1.4049330) J Appl. Mech., 4(88), 041010.
-1. Liu, M., Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750. (**Highlighted** by Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/40772).)
-1. Meng, Z., Liu, M., Zhang, Y., Chen, C.\* (2020). [Multi-step deformation mechanical metamaterials.](https://doi.org/10.1016/j.jmps.2020.104095) **J Mech. Phys. Solids**, 144, 104095.
-1. Meng, W., Liu, M., Gan, Y., Pauchard, L., Chen, C.\* (2020). [Cracking to curling transition in drying colloidal films.](https://doi.org/10.1140/epje/i2020-11985-4) Eur. Phys. J E, 43(10), 1–9.
-1. Suo, S., Liu, M., Gan, Y.\* (2020). [Fingering patterns in hierarchical porous media.](https://doi.org/10.1103/PhysRevFluids.5.034301) Phys. Rev. Fluids, 5 (3), 034301.
-1. Suo, S., Liu, M., Gan, Y.\* (2020). [An LBM-PNM framework for immiscible flow: With applications to droplet spreading on porous surfaces.](https://doi.org/10.1016/j.ces.2020.115577) Chem. Eng. Sci., 218, 115577.
-1. Mohammad, N., Meng, W., Zhang, Y., Liu, M., El-Zein, A., Gan, Y.\* (2020). [Desiccation crack formation and prevention in thin bentonite layers.](https://doi.org/10.1680/jenge.19.00112) Environ. Geotech., 40, 1-15.
-1. Liu, M., Wu, J., Gan, Y.\*, Hanaor, D., Chen, C.\* (2019). [Multiscale modeling of the effective elastic properties of fluid-filled porous materials.](https://doi.org/10.1016/j.ijsolstr.2018.11.028) **Int. J Solids Struct.**, 162, 36–44.
-1. Liu, M., Suo, S., Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2019). [Tailoring porous media for controllable capillary flow.](https://doi.org/10.1016/j.jcis.2018.12.068) J Colloid Interf. Sci., 539, 379–387.
-1. Cui, G., Liu, M., Dai, W., Gan, Y.\* (2019). [Pore-scale modelling of gravity-driven drainage in disordered porous media.](https://doi.org/10.1016/j.ijmultiphaseflow.2019.02.001) Int. J Multiphase Flow, 114, 19–27.
-1. Suo, S., Liu, M., Gan, Y.\* (2019). [Modelling imbibition processes in heterogeneous porous media.](https://doi.org/10.1007/s11242-018-1146-7) Transp. Porous Media, 126, 615–631.
-1. Liu, M., Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2018). [Tuning capillary penetration in porous media: Combining geometrical and evaporation effects.](https://doi.org/10.1016/j.ijheatmasstransfer.2018.02.101) **Int. J Heat Mass Transf.**, 123, 239–250.
-1. Li, S., Liu, M., Hanaor, D., Gan, Y.\* (2018). [Dynamics of viscous entrapped saturated zones in partially wetted porous media.](https://doi.org/10.1007/s11242-018-1113-3) Transp. Porous Media, 125, 193–210.
-1. Shi, Z., Zhang, Y., Liu, M., Hanaor, D., Gan, Y.\* (2018). [Dynamic contact angle hysteresis in liquid bridges.](https://doi.org/10.1016/j.colsurfa.2018.07.004) Colloid Surf. A-Physicochem. Eng. Asp., 555, 365–371.
-1. Liu, M., Zhang, Y., Wu, J., Gan, Y., Chen, C.\* (2016). [Analytical solutions for elastic response of coated mesoporous materials to pore pressure.](https://doi.org/10.1016/j.ijengsci.2016.07.010) Int. J Eng. Sci., 107, 68–76.
-1. Liu, M., Wu, J., Gan, Y., Chen, C.\* (2016). [The pore-load modulus of ordered nanoporous materials with surface effects.](https://doi.org/10.1063/1.4945441) AIP Adv., 6(3), 035324.
-1. Liu, M., Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2016). [Evaporation limited radial capillary penetration in porous media.](https://doi.org/10.1021/acs.langmuir.6b02404) **Langmuir**, 32(38), 9899–9904.
-1. Liu, M., Jin, P., Xu, Z., Hanaor, D., Gan, Y., Chen, C.\* (2016). [Two-dimensional modeling of the self-limiting oxidation in silicon and tungsten nanowires.](https://doi.org/10.1016/j.taml.2016.08.002) Theore. Appl. Mech. Lett., 6(5), 195–199.
-1. Liu, M., Gan, Y.\*, Hanaor, D., Liu, B., Chen, C.\* (2015). [An improved semi-analytical solution for stress at round-tip notches.](https://doi.org/10.1016/j.engfracmech.2015.10.004) Eng. Fract. Mech., 149, 134–143.
-1. Liu, M., Chen, C.\* (2015). [A micromechanical analysis of the fracture properties of saturated porous media.](https://doi.org/10.1016/j.ijsolstr.2015.02.031) **Int. J Solids Struct.**, 63, 32–38.
-1. Wang, B.\*, Liu, M., Zhao, J., Zhou, S. (2014). [A size-dependent Reddy–Levinson beam model based on a strain gradient elasticity theory.](https://doi.org/10.1007/s11012-014-9912-2) Meccanica, 49(6), 1427–1441.
+1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
+1. Mao, J.\*, Wang, S., Tan, W.\*, **Liu, M.**\* (2022). [Modular multistable metamaterials with reprogrammable mechanical properties.](https://doi.org/10.1016/j.engstruct.2022.114976) Eng. Struct., 272, 114976.
+1. Ma, C., Zhang, Y., Jiao, S.\*, & **Liu, M.**\* (2022). [Snap-through of graphene nanowrinkles under out-of-plane compression.](https://10.0.4.64/1361-6528/ac9418) Nanotechnology, 34(1), 015705.
+1. Zhang, Y., Yang, J., **Liu, M.**\*, Vella, D. (2022). [Shape-morphing structures based on perforated kirigami.](https://doi.org/10.1016/j.eml.2022.101857) **Extre. Mech. Lett.**, 56, 101857.
+1. Meng, Z., **Liu, M.**, Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460. (**Highlighted** in Tsinghua University [**News**](https://www.tsinghua.edu.cn/info/1175/95542.htm).)
+1. **Liu, M.**, Gomez, M., Vella, D.\* (2021). [Delayed bifurcation in elastic snap-through instabilities.](https://doi.org/10.1016/j.jmps.2021.104386) **J Mech. Phys. Solids**, 151, 104386.
+1. Jiao, S., **Liu, M.**\* (2021). [Snap-through in graphene nanochannel: With application to fluidic control.](https://doi.org/10.1021/acsami.0c16468) ACS Appl. Mater. Interfaces, 13 (1), 1158–1168.
+1. Wang, Q., **Liu, M.**, Wang, Z., Chen, C., Wu, J.\* (2021). [Large deformation and instability of soft hollow cylinder with surface effects.](https://doi.org/10.1115/1.4049330) J Appl. Mech., 4(88), 041010.
+1. Liu, M., Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750. (**Highlighted** in Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/40772).)
+1. Meng, Z., **Liu, M.**, Zhang, Y., Chen, C.\* (2020). [Multi-step deformation mechanical metamaterials.](https://doi.org/10.1016/j.jmps.2020.104095) **J Mech. Phys. Solids**, 144, 104095.
+1. Meng, W., **Liu, M.**, Gan, Y., Pauchard, L., Chen, C.\* (2020). [Cracking to curling transition in drying colloidal films.](https://doi.org/10.1140/epje/i2020-11985-4) Eur. Phys. J E, 43(10), 1–9.
+1. Suo, S., **Liu, M.**, Gan, Y.\* (2020). [Fingering patterns in hierarchical porous media.](https://doi.org/10.1103/PhysRevFluids.5.034301) Phys. Rev. Fluids, 5 (3), 034301.
+1. Suo, S., **Liu, M.**, Gan, Y.\* (2020). [An LBM-PNM framework for immiscible flow: With applications to droplet spreading on porous surfaces.](https://doi.org/10.1016/j.ces.2020.115577) Chem. Eng. Sci., 218, 115577.
+1. Mohammad, N., Meng, W., Zhang, Y., **Liu, M.**, El-Zein, A., Gan, Y.\* (2020). [Desiccation crack formation and prevention in thin bentonite layers.](https://doi.org/10.1680/jenge.19.00112) Environ. Geotech., 40, 1-15.
+1. **Liu, M.**, Wu, J., Gan, Y.\*, Hanaor, D., Chen, C.\* (2019). [Multiscale modeling of the effective elastic properties of fluid-filled porous materials.](https://doi.org/10.1016/j.ijsolstr.2018.11.028) **Int. J Solids Struct.**, 162, 36–44.
+1. **Liu, M.**, Suo, S., Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2019). [Tailoring porous media for controllable capillary flow.](https://doi.org/10.1016/j.jcis.2018.12.068) J Colloid Interf. Sci., 539, 379–387.
+1. Cui, G., **Liu, M.**, Dai, W., Gan, Y.\* (2019). [Pore-scale modelling of gravity-driven drainage in disordered porous media.](https://doi.org/10.1016/j.ijmultiphaseflow.2019.02.001) Int. J Multiphase Flow, 114, 19–27.
+1. Suo, S., **Liu, M.**, Gan, Y.\* (2019). [Modelling imbibition processes in heterogeneous porous media.](https://doi.org/10.1007/s11242-018-1146-7) Transp. Porous Media, 126, 615–631.
+1. **Liu, M.**, Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2018). [Tuning capillary penetration in porous media: Combining geometrical and evaporation effects.](https://doi.org/10.1016/j.ijheatmasstransfer.2018.02.101) **Int. J Heat Mass Transf.**, 123, 239–250.
+1. Li, S., **Liu, M.**, Hanaor, D., Gan, Y.\* (2018). [Dynamics of viscous entrapped saturated zones in partially wetted porous media.](https://doi.org/10.1007/s11242-018-1113-3) Transp. Porous Media, 125, 193–210.
+1. Shi, Z., Zhang, Y., **Liu, M.**, Hanaor, D., Gan, Y.\* (2018). [Dynamic contact angle hysteresis in liquid bridges.](https://doi.org/10.1016/j.colsurfa.2018.07.004) Colloid Surf. A-Physicochem. Eng. Asp., 555, 365–371.
+1. **Liu, M.**, Zhang, Y., Wu, J., Gan, Y., Chen, C.\* (2016). [Analytical solutions for elastic response of coated mesoporous materials to pore pressure.](https://doi.org/10.1016/j.ijengsci.2016.07.010) Int. J Eng. Sci., 107, 68–76.
+1. **Liu, M.**, Wu, J., Gan, Y., Chen, C.\* (2016). [The pore-load modulus of ordered nanoporous materials with surface effects.](https://doi.org/10.1063/1.4945441) AIP Adv., 6(3), 035324.
+1. **Liu, M.**, Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2016). [Evaporation limited radial capillary penetration in porous media.](https://doi.org/10.1021/acs.langmuir.6b02404) **Langmuir**, 32(38), 9899–9904.
+1. **Liu, M.**, Jin, P., Xu, Z., Hanaor, D., Gan, Y., Chen, C.\* (2016). [Two-dimensional modeling of the self-limiting oxidation in silicon and tungsten nanowires.](https://doi.org/10.1016/j.taml.2016.08.002) Theore. Appl. Mech. Lett., 6(5), 195–199.
+1. **Liu, M.**, Gan, Y.\*, Hanaor, D., Liu, B., Chen, C.\* (2015). [An improved semi-analytical solution for stress at round-tip notches.](https://doi.org/10.1016/j.engfracmech.2015.10.004) Eng. Fract. Mech., 149, 134–143.
+1. **Liu, M.**, Chen, C.\* (2015). [A micromechanical analysis of the fracture properties of saturated porous media.](https://doi.org/10.1016/j.ijsolstr.2015.02.031) **Int. J Solids Struct.**, 63, 32–38.
+1. Wang, B.\*, **Liu, M.**, Zhao, J., Zhou, S. (2014). [A size-dependent Reddy–Levinson beam model based on a strain gradient elasticity theory.](https://doi.org/10.1007/s11012-014-9912-2) Meccanica, 49(6), 1427–1441.
