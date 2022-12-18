@@ -50,9 +50,16 @@ Grants and Independent Fellowships
 
 Selected Publications
 --------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
+1. Zhang, Y., Yang, J., **Liu, M.**\*, Vella, D. (2022). [Shape-morphing structures based on perforated kirigami.](https://doi.org/10.1016/j.eml.2022.101857) **Extre. Mech. Lett.**, 56, 101857.
+1. Meng, Z., **Liu, M.**, Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460.
+1. **Liu, M.**, Gomez, M., Vella, D.\* (2021). [Delayed bifurcation in elastic snap-through instabilities.](https://doi.org/10.1016/j.jmps.2021.104386) **J Mech. Phys. Solids**, 151, 104386.
+1. Liu, M., Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750.
+1. Meng, Z., **Liu, M.**, Zhang, Y., Chen, C.\* (2020). [Multi-step deformation mechanical metamaterials.](https://doi.org/10.1016/j.jmps.2020.104095) **J Mech. Phys. Solids**, 144, 104095.
+1. **Liu, M.**, Wu, J., Gan, Y.\*, Hanaor, D., Chen, C.\* (2019). [Multiscale modeling of the effective elastic properties of fluid-filled porous materials.](https://doi.org/10.1016/j.ijsolstr.2018.11.028) **Int. J Solids Struct.**, 162, 36–44.
+1. **Liu, M.**, Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2018). [Tuning capillary penetration in porous media: Combining geometrical and evaporation effects.](https://doi.org/10.1016/j.ijheatmasstransfer.2018.02.101) **Int. J Heat Mass Transf.**, 123, 239–250.
+1. **Liu, M.**, Wu, J., Gan, Y., Hanaor, D., Chen, C.\* (2016). [Evaporation limited radial capillary penetration in porous media.](https://doi.org/10.1021/acs.langmuir.6b02404) **Langmuir**, 32(38), 9899–9904.
+1. **Liu, M.**, Chen, C.\* (2015). [A micromechanical analysis of the fracture properties of saturated porous media.](https://doi.org/10.1016/j.ijsolstr.2015.02.031) **Int. J Solids Struct.**, 63, 32–38.
   
 Service and leadership
 --------
