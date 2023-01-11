@@ -10,6 +10,8 @@ PhD Students
 --------
 We are currently looking for PhD students/visiting students to join our group! Please check out the advertisement here and apply if you are interested!
 
+* Position 1: [Harnessing particle assembly for the design of programmable mechanical metamaterials](https://www.findaphd.com/phds/project/harnessing-particle-assembly-for-the-design-of-programmable-mechanical-metamaterials/?p153260)
+* Position 2: [Programmable mechanical metamaterials based on elastic instabilities](https://www.findaphd.com/phds/project/programmable-mechanical-metamaterials-based-on-elastic-instabilities/?p153898)
 
 Research Associate
 --------
