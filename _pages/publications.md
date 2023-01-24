@@ -8,15 +8,14 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
-
-1. Wang, Y.†, Wang, Q.†, **Liu, M.**, Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* Insect-scale jumping robots enabled by a dynamic buckling cascade. **Proc. Natl. Acad. Sci. U.S.A.** Accepted.
-1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under review.
-1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Under review.
-1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under review.
+1.  Meng, Z., Yan, H., **Liu, M.**, Qin, w., Genin, G.M., Chen, C.\* (2023). Encoding and storage of information in mechanical metamaterials. Under Review.
+1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. Under Review.
+1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under Review.
+1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. Accepted.
 
 
 **Published**
-
+1. Wang, Y.†, Wang, Q.†, **Liu, M.**, Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* (2023). [Insect-scale jumping robots enabled by a dynamic buckling cascade.](https://doi.org/10.1073/pnas.2210651120) **Proc. Natl. Acad. Sci. U.S.A.** 120(5), e2210651120.
 1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
 1. Mao, J.\*, Wang, S., Tan, W.\*, **Liu, M.**\* (2022). [Modular multistable metamaterials with reprogrammable mechanical properties.](https://doi.org/10.1016/j.engstruct.2022.114976) Eng. Struct., 272, 114976.
 1. Ma, C., Zhang, Y., Jiao, S.\*, & **Liu, M.**\* (2022). [Snap-through of graphene nanowrinkles under out-of-plane compression.](https://10.0.4.64/1361-6528/ac9418) Nanotechnology, 34(1), 015705.
