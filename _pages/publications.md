@@ -30,7 +30,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Wang, Q., **Liu, M.**, Wang, Z., Chen, C., Wu, J.\* (2021). [Large deformation and instability of soft hollow cylinder with surface effects.](https://doi.org/10.1115/1.4049330) J Appl. Mech., 4(88), 041010.
 
 **2020**
-1. Liu, M., Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750. (**Highlighted** in Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/40772).)
+1. **Liu, M.**, Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750. (**Highlighted** in Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/40772).)
 1. Meng, Z., **Liu, M.**, Zhang, Y., Chen, C.\* (2020). [Multi-step deformation mechanical metamaterials.](https://doi.org/10.1016/j.jmps.2020.104095) **J Mech. Phys. Solids**, 144, 104095.
 1. Meng, W., **Liu, M.**, Gan, Y., Pauchard, L., Chen, C.\* (2020). [Cracking to curling transition in drying colloidal films.](https://doi.org/10.1140/epje/i2020-11985-4) Eur. Phys. J E, 43(10), 1–9.
 1. Suo, S., **Liu, M.**, Gan, Y.\* (2020). [Fingering patterns in hierarchical porous media.](https://doi.org/10.1103/PhysRevFluids.5.034301) Phys. Rev. Fluids, 5 (3), 034301.
