@@ -25,4 +25,5 @@ Deployable metamaterials with multistep transformation (Sci. Adv., 2020)
 
 Modelling of Soft Robots
 --------
-The studies about soft robots will come soon...
+Dynamic modeling and optimal design of magnetic cilia carpet robot (EML, 2023)
+![Modeling Magnetic Robot](/figures/EML2023_ModellingMagneticRobot.png "EML2023")
