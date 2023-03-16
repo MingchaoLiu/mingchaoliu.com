@@ -8,7 +8,8 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
-1. Meng, Z., Yan, H., **Liu, M.**, Qin, w., Genin, G.M., Chen, C.\* (2023). Encoding and storage of information in mechanical metamaterials. Under Review.
+1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method. Under Review.
+1. Meng, Z., Yan, H., **Liu, M.**, Qin, W., Genin, G.M., Chen, C.\* (2023). Encoding and storage of information in mechanical metamaterials. Under Review.
 1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under Review.
 
 
