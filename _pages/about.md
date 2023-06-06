@@ -18,6 +18,8 @@ Dr. Mingchao Liu (刘明超) is currently an Assistant Professor at [University 
 
 Recent News
 ======
+1. 2023/05: Our paper, 'Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.', has been published in [*JAM*](https://doi.org/10.1115/1.4062533).
+1. 2023/04: Our paper, 'Encoding and storage of information in mechanical metamaterials.', has been published in [*Adv. Sci.*](https://doi.org/10.1002/advs.202301581), which is **Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/).
 1. 2023/02: Our paper, 'Modeling of magnetic cilia carpet robots using discrete differential geometry formulation.', has been published in [*EML*](https://doi.org/10.1016/j.eml.2023.101967).
 1. 2023/02: Our paper, 'A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.', has been published in [*EML*](https://doi.org/10.1016/j.eml.2023.101977).
 1. 2023/01: Our paper, 'Insect-scale jumping robots enabled by a dynamic buckling cascade.', has been published in [*PNAS*](https://doi.org/10.1073/pnas.2210651120), which is **Highlighted** in [**TechXplore**](https://techxplore.com/news/2023-01-click-beetle-inspired-robots-elastic-energy.html), University Oxford [**News**](https://www.ox.ac.uk/news/2023-01-24-leaping-beetles-inspire-new-miniature-jumping-robots-0), Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/62536), and [**Science**](https://www.science.org/doi/10.1126/science.adh2294).
