@@ -10,9 +10,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Forthcoming**
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. Under Review.
 1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under Review.
-1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.  Journal of Applied Mechanics., Accepted.
+
 
 **2023**
+1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). [Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.](https://doi.org/10.1115/1.4062533) Journal of Applied Mechanics., 90(9): 094501.
 1. Meng, Z., Yan, H., **Liu, M.**, Qin, W., Genin, G.M., Chen, C.\* (2023). [Encoding and storage of information in mechanical metamaterials.](https://doi.org/10.1002/advs.202301581) **Adv. Sci.**, 2301581. (**Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/).)
 1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.](https://doi.org/10.1016/j.eml.2023.101977) **Extre. Mech. Lett.**, 59, 101977.
 1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [Modeling of magnetic cilia carpet robots using discrete differential geometry formulation.](https://doi.org/10.1016/j.eml.2023.101967) **Extre. Mech. Lett.**, 59, 101967.
