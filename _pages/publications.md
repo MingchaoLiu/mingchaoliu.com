@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
+Longhui Qin1, Haijun Peng2, Xiaonan Huang3, Mingchao Liu4* and Weicheng
+Huang
+
+1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. Current Robotics Reports. Under Review.
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. Under Review.
 1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites. Under Review.
 
