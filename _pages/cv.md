@@ -63,7 +63,7 @@ Selected Publications
   
 Service and leadership
 --------
-* Early Career Advisory Board (EML-ECAB): [*Extreme Mechanics Letters*](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
+* Early Career Advisory Board (EML-ECAB), Special Editor for Social Media Engagement: [*Extreme Mechanics Letters*](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
 * Youth Editorial Board: [*Soft Science*](https://softscijournal.com/)
 
-* Referee in peer-reviewed journals: *Extreme Mechanics Letters*; *Proceedings of the Royal Society A*; *Physics of Fluids*; *Polymer Testing*; *Acta Mechanica Sinica*; *The European Physical Journal Plus*
+* Referee in peer-reviewed journals: *Journal of the Mechanics and Physics of Solids*, *Extreme Mechanics Letters*; *Proceedings of the Royal Society A*; *Physics of Fluids*; *Polymer Testing*; *Acta Mechanica Sinica*; *The European Physical Journal Plus*
