@@ -10,16 +10,16 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Forthcoming**
 1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2023). Cage-shaped self-folding mechanical metamaterials. Under Review.
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. Under Review.
-1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. Current Robotics Reports, Accepted.
+1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, In press.
 
 **2023**
-1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 105382.
+1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 180, 105382.
 1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). [Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.](https://doi.org/10.1115/1.4062533) J Appl. Mech., 90(9): 094501.
 1. Meng, Z., Yan, H., **Liu, M.**, Qin, W., Genin, G.M., Chen, C.\* (2023). [Encoding and storage of information in mechanical metamaterials.](https://doi.org/10.1002/advs.202301581) **Adv. Sci.**, 2301581. (**Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/), **Featured** as the [**Back Cover**](https://doi.org/10.1002/advs.202370133).)
 1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.](https://doi.org/10.1016/j.eml.2023.101977) **Extre. Mech. Lett.**, 59, 101977.
 1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [Modeling of magnetic cilia carpet robots using discrete differential geometry formulation.](https://doi.org/10.1016/j.eml.2023.101967) **Extre. Mech. Lett.**, 59, 101967.
 1. Wang, Y.†, Wang, Q.†, **Liu, M.**, Qin, Y., Cheng, L., Bolmin, O., Alleyne, M., Wissa, A., Baughman, R.H., Vella, D., Tawfick, S.\* (2023). [Insect-scale jumping robots enabled by a dynamic buckling cascade.](https://doi.org/10.1073/pnas.2210651120) **Proc. Natl. Acad. Sci. U.S.A.** 120(5), e2210651120. (**Highlighted** in [**TechXplore**](https://techxplore.com/news/2023-01-click-beetle-inspired-robots-elastic-energy.html), University Oxford [**News**](https://www.ox.ac.uk/news/2023-01-24-leaping-beetles-inspire-new-miniature-jumping-robots-0) and Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/62536).)
-1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
+1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 170, 105116.
 
 **2022**
 1. Mao, J.\*, Wang, S., Tan, W.\*, **Liu, M.**\* (2022). [Modular multistable metamaterials with reprogrammable mechanical properties.](https://doi.org/10.1016/j.engstruct.2022.114976) Eng. Struct., 272, 114976.
