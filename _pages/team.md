@@ -6,19 +6,13 @@ author_profile: true
 
 ---
 
-PhD Students
+Current Members
 --------
-We are currently looking for PhD students/visiting students to join our group! Please check out the advertisement here and apply if you are interested!
+* Qun Zhang, PhD Student (09/2023 - )
 
-* Position 1: [Harnessing particle assembly for the design of programmable mechanical metamaterials](https://www.findaphd.com/phds/project/harnessing-particle-assembly-for-the-design-of-programmable-mechanical-metamaterials/?p153260)
-* Position 2: [Programmable mechanical metamaterials based on elastic instabilities](https://www.findaphd.com/phds/project/programmable-mechanical-metamaterials-based-on-elastic-instabilities/?p153898)
-
-Research Associate
+Alumni
 --------
-* Weining Mao (taken the position at NTU)
-  * M.Sc. in Civil Engineering, Imperial College London, UK (2018-2019)
-  * B.Eng. in Civil Engineering, University of Edinburgh, UK (2016-2018)
-
+* Weining Mao, Research Associate (07/2022 - 06/2023, taken the position at NTU), Currently PhD student at NTU.
 
 Collaborators
 --------
