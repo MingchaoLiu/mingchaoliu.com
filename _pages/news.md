@@ -5,6 +5,12 @@ permalink: /news/
 author_profile: true
 
 ---
+* 2023/09: Mr. Qun Zhang has joined the group as a PhD student. Welcome!
+* 2023/09: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has finished the PPF position at NTU and moved to University of Birmingham to start the Assistant Professor position since 1st September.
+* 2023/08: Our paper, 'Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.', has been published in [*JMPS*](https://www.sciencedirect.com/science/article/pii/S0022509623001862).
+* 2023/08: Our review paper, 'Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.', has been published in [*Curr. Robot. Rep.*](https://doi.org/10.1007/s43154-023-00105-z).
+* 2023/05: Our paper, 'Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.', has been published in [*JAM*](https://doi.org/10.1115/1.4062533).
+* 2023/04: Our paper, 'Encoding and storage of information in mechanical metamaterials.', has been published in [*Adv. Sci.*](https://doi.org/10.1002/advs.202301581), which is **Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/) and **Featured** as the [**Back Cover**](https://doi.org/10.1002/advs.202370133).
 * 2023/02: Our paper, 'Modeling of magnetic cilia carpet robots using discrete differential geometry formulation.', has been published in [*EML*](https://doi.org/10.1016/j.eml.2023.101967).
 * 2023/02: Our paper, 'A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.', has been published in [*EML*](https://doi.org/10.1016/j.eml.2023.101977).
 * 2023/01: Our paper, 'Insect-scale jumping robots enabled by a dynamic buckling cascade.', has been published in [*PNAS*](https://doi.org/10.1073/pnas.2210651120), which is **Highlighted** in [**TechXplore**](https://techxplore.com/news/2023-01-click-beetle-inspired-robots-elastic-energy.html), University Oxford [**News**](https://www.ox.ac.uk/news/2023-01-24-leaping-beetles-inspire-new-miniature-jumping-robots-0) and Oxford Mathematical Institute [**Case Study**](https://www.maths.ox.ac.uk/node/62536).
