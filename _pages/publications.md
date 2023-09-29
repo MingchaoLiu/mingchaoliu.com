@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
+1. Huang, W., Yu, T.\*, Hsia, J.K., Adriaenssens, S., **Liu, M.**\* (2023). Integration of in-plane kinks and out-of-plane creases enables tunable folding in meta-ribbons. Under Review.
 1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, J.K.\*, **Liu, M.**\* (2023). Morphing matter: From mechanical principles to robotic applications. Under Review.
 1. Huang, W.\#, Liu, T.\#, Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, J.K.\* (2023). Discrete differential geometry-based model for the snapping analysis of axisymmetric shells. Under Review.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2023). Tunable mechanics of architectured composites from particle assemblies. Under Review.
@@ -16,7 +17,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, In press. (Invited Review)
 
 **2023**
-1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 180, 105382.
+1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 180, 105382. (**Highlighted** in Queen Mary University of London (QMUL) [**News**](https://www.sems.qmul.ac.uk/news/6484/researchers-create-multifunctional-shape-morphing-composite-materials-inspired-by-kirigami).)
 1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). [Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.](https://doi.org/10.1115/1.4062533) J Appl. Mech., 90(9): 094501.
 1. Meng, Z., Yan, H., **Liu, M.**, Qin, W., Genin, G.M., Chen, C.\* (2023). [Encoding and storage of information in mechanical metamaterials.](https://doi.org/10.1002/advs.202301581) **Adv. Sci.**, 2301581. (**Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/), **Featured** as the [**Back Cover**](https://doi.org/10.1002/advs.202370133).)
 1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.](https://doi.org/10.1016/j.eml.2023.101977) **Extre. Mech. Lett.**, 59, 101977.
