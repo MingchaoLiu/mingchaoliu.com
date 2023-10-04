@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
-1. Yang, Y., Wang, Y., Liu, M., **Liu, M.**\*, Huang, C.\* (2023). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. Under Review.
+1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2023). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. Under Review.
 1. Huang, W., Yu, T.\*, Hsia, J.K., Adriaenssens, S., **Liu, M.**\* (2023). Integration of in-plane kinks and out-of-plane creases enables tunable folding in meta-ribbons. Under Review.
 1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, J.K.\*, **Liu, M.**\* (2023). Morphing matter: From mechanical principles to robotic applications. Under Review.
 1. Huang, W.\#, Liu, T.\#, Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, J.K.\* (2023). Discrete differential geometry-based model for the snapping analysis of axisymmetric shells. Under Review.
