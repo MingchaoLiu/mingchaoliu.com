@@ -9,6 +9,7 @@ author_profile: true
 Current Members
 --------
 * Qun Zhang, PhD Student (09/2023 - )
+* Nan Li, Visiting PhD student from Xi'an Jiaotong University (10/2023 - )
 
 Alumni
 --------
