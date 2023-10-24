@@ -9,12 +9,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Forthcoming**
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2023). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. Under Review.
-1. Huang, W., Yu, T.\*, Hsia, J.K., Adriaenssens, S., **Liu, M.**\* (2023). Integration of in-plane kinks and out-of-plane creases enables tunable folding in meta-ribbons. Under Review.
+1. Huang, W., Yu, T.\*, Hsia, J.K., Adriaenssens, S., **Liu, M.**\* (2023). Integration of kinks and creases enables tunable folding in meta-ribbons. Under Review.
 1. Huang, W.\#, Liu, T.\#, Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, J.K.\* (2023). Discrete differential geometry-based model for the snapping analysis of axisymmetric shells. Under Review.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2023). Tunable mechanics of architectured composites from particle assemblies. Under Review.
 1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2023). Cage-shaped self-folding mechanical metamaterials. Under Review.
-1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. Under Review.
-1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, J.K.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) Soft Science, Accepted.
+1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. **Matter**, Accepted.
+1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, J.K.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) **Soft Science**, Accepted.
 1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, In press. (Invited Review)
 
 **2023**
