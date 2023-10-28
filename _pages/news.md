@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 
 ---
+* 2023/10: Mr. Nan Li from Xi'an Jiaotong University has joined the group as a visiting PhD student. Welcome!
 * 2023/09: Mr. Qun Zhang has joined the group as a PhD student. Welcome!
 * 2023/09: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has finished the PPF position at NTU and moved to University of Birmingham to start the Assistant Professor position since 1st September.
 * 2023/08: Our paper, 'Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.', has been published in [*JMPS*](https://www.sciencedirect.com/science/article/pii/S0022509623001862), which is **Highlighted** in Queen Mary University of London (QMUL) [**News**](https://www.sems.qmul.ac.uk/news/6484/researchers-create-multifunctional-shape-morphing-composite-materials-inspired-by-kirigami).
