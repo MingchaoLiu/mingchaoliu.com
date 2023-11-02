@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Our researches mainly focus on mechanics of slender structures and their applications in metamaterials and metastructures with innovative functions.
+Our research primarily concentrates on the mechanics of slender structures and their applications in robotic metamaterials endowed with innovative functionalities.
 
 Mechanics of Slender Structures
 --------
