@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
 
 **Forthcoming**
+1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, J.K.\* (2023). Dehydration-induced corrugated folding in Rhapis excelsa plant leaves. Under Review.
 1. Huang, W., Yu, T.\*, Hsia, J.K., Adriaenssens, S., **Liu, M.**\* (2023). Integration of kinks and creases enables tunable folding in meta-ribbons. Under Review.
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2023). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. Under Review.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2023). Tunable mechanics of architectured composites from particle assemblies. Under Review.
