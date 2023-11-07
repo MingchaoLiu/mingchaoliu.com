@@ -13,8 +13,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2023). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. Under Review.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2023). Tunable mechanics of architectured composites from particle assemblies. Under Review.
 1. Huang, W.\#, Liu, T.\#, Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, J.K.\* (2023). Discrete differential geometry-based model for the snapping analysis of axisymmetric shells. Under Review. [Preprint](http://dx.doi.org/10.2139/ssrn.4602432)
-1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2023). Cage-shaped self-folding mechanical metamaterials. Int. J Solids Struct., Accepted.
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, J.K., Wang, Y.\* (2023). Hierarchical tessellation enables general 3D shape-morphing structures. **Matter**, Accepted.
+1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2023). [Cage-shaped self-folding mechanical metamaterials.](https://doi.org/10.1016/j.ijsolstr.2023.112560) Int. J Solids Struct., In press.
 1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, In press. (Invited Review)
 
 **2023**
