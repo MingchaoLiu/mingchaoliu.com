@@ -18,6 +18,8 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2023/11: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the prestigious [*Extreme Mechanics Letters (EML) Young Investigator Award*](https://imechanica.org/node/26993). Congratulations!
+1. 2023/11: [*Prof. Burigede Liu*](http://www.eng.cam.ac.uk/profiles/bl377) from the University of Cambridge visited our group and delivered a talk entitled 'Towards Quantum Computing in Solid Mechanics'.
 1. 2023/10: Mr. Nan Li from Xi'an Jiaotong University has joined the group as a visiting PhD student. Welcome!
 1. 2023/09: Mr. Qun Zhang has joined the group as a PhD student. Welcome!
 1. 2023/09: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has finished the PPF position at NTU and moved to University of Birmingham to start the Assistant Professor position since 1st September.
