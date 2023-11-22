@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile.
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile. (* Corresponding author; # Equal contribution)
 
 **Forthcoming**
 1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, J.K.\* (2023). Dehydration-induced corrugated folding in Rhapis excelsa plant leaves. Under Review.
@@ -29,7 +29,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **2022**
 1. Mao, J.\*, Wang, S., Tan, W.\*, **Liu, M.**\* (2022). [Modular multistable metamaterials with reprogrammable mechanical properties.](https://doi.org/10.1016/j.engstruct.2022.114976) Eng. Struct., 272, 114976.
-1. Ma, C., Zhang, Y., Jiao, S.\*, & **Liu, M.**\* (2022). [Snap-through of graphene nanowrinkles under out-of-plane compression.](https://doi.org/10.1088/1361-6528/ac9418) Nanotechnology, 34(1), 015705.
+1. Ma, C., Zhang, Y., Jiao, S.\*, **Liu, M.**\* (2022). [Snap-through of graphene nanowrinkles under out-of-plane compression.](https://doi.org/10.1088/1361-6528/ac9418) Nanotechnology, 34(1), 015705.
 1. Zhang, Y., Yang, J., **Liu, M.**\*, Vella, D. (2022). [Shape-morphing structures based on perforated kirigami.](https://doi.org/10.1016/j.eml.2022.101857) **Extre. Mech. Lett.**, 56, 101857.
 1. Meng, Z., **Liu, M.**, Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460. (**Highlighted** in Tsinghua University [**News**](https://www.tsinghua.edu.cn/info/1175/95542.htm).)
 
