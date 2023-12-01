@@ -18,6 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2023/12: Our paper, 'Hierarchical Tessellation Enables Programmable Morphing Matter.', has been published in [*Matter*](https://authors.elsevier.com/c/1iBCZ9Cyxd31hR).
 1. 2023/11: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the prestigious [*Extreme Mechanics Letters (EML) Young Investigator Award*](https://imechanica.org/node/26993). Congratulations!
 1. 2023/11: [*Prof. Burigede Liu*](http://www.eng.cam.ac.uk/profiles/bl377) from the University of Cambridge visited our group and delivered a talk entitled 'Towards Quantum Computing in Solid Mechanics'.
 1. 2023/10: Mr. Nan Li from Xi'an Jiaotong University has joined the group as a visiting PhD student. Welcome!
