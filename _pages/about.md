@@ -10,7 +10,7 @@ redirect_from:
 
 We are interested in the mechanics of slender structures and their applications in robotic metamaterials with innovative functions. These functions include tunable mechanical properties such as stress-strain relations, energy absorption, and vibration isolation, as well as programmable robotic behaviors such as shape-morphing, mechanical sensing, actuation, memory, and computation. Our aim is to design and analyze these types of intelligent systems by harnessing mechanics theory, numerical simulations, and physical experiments.
 
-![Research Summary](/figures/ResearchSummary_2309.png "Research Summary")
+![Research Summary](/figures/ResearchSummary_2312.png "Research Summary")
 
 The Principal Investigator
 ======
