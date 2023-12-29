@@ -9,6 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Forthcoming**
 1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2023). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. Under Review. [Preprint](https://arxiv.org/abs/2312.15699)
+1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2023). Transient amplification of broken symmetry in elastic snap-through. Under Review. [Preprint](https://arxiv.org/abs/2312.13908) 
 1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, K.J.\* (2023). Dehydration-induced corrugated folding in Rhapis excelsa plant leaves. Under Review.
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2023). Integration of kinks and creases enables tunable folding in meta-ribbons. Under Review.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2023). Tunable mechanics of architectured composites from particle assemblies. Under Review.
