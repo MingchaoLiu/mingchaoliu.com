@@ -14,9 +14,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). Integration of kinks and creases enables tunable folding in meta-ribbons. Under Review.
 1. Huang, W.\#, Liu, T.\#, Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for the snapping analysis of axisymmetric shells. Under Review. [Preprint](http://dx.doi.org/10.2139/ssrn.4602432)
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2024). Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures. **Mater. Horiz.**, Accepted.
-1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2024). [Tunable mechanics of architectured composites from particle assemblies.](https://doi.org/10.1016/j.eml.2024.102121) Extre. Mech. Lett., In Press.
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, K.J., Wang, Y.\* (2024). [Hierarchical tessellation enables general 3D shape-morphing structures.](https://authors.elsevier.com/c/1iBCZ9Cyxd31hR) **Matter**, In press.
 1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2023). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, In press. (Invited Review)
+1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2024). [Tunable mechanics of architectured composites from particle assemblies.](https://doi.org/10.1016/j.eml.2024.102121) Extre. Mech. Lett., 2024, 67, 102121.
 
 **2023**
 1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2023). [Cage-shaped self-folding mechanical metamaterials.](https://doi.org/10.1016/j.ijsolstr.2023.112560) Int. J Solids Struct., 286–287, 112560.
