@@ -63,6 +63,6 @@ Service and leadership
 * Early Career Advisory Board (EML-ECAB), Special Editor for Social Media Engagement: [*Extreme Mechanics Letters*](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
 * Youth Editorial Board: [*Soft Science*](https://softscijournal.com/)
 
-* Referee for peer-reviewed journals: J Mech. Phys. Solids; Extre. Mech. Lett.; Int. J Solids Struct.; Proc. R. Soc. A; Phys. Rev. B; Phys. Rev. E; Phys. Rev. Appl.; EcoMat; Mech. Mater.; Phys. Fluids; Virtual Phys. Prototyp.; Int. J Mech. Mater. Design; ACS Appl. Nano Mater.; Plos One; Polym. Test.; Acta Mech. Sin.; Eur. Phys. J. Plus; Mech. Based Des. Struc.
+* Referee for peer-reviewed journals: J Mech. Phys. Solids; Extre. Mech. Lett.; Int. J Solids Struct.; Proc. R. Soc. A; Phys. Rev. B; Phys. Rev. E; Phys. Rev. Appl.; EcoMat; Adv. Intell. Syst.; Mech. Mater.; Phys. Fluids; Virtual Phys. Prototyp.; Int. J Mech. Mater. Design; ACS Appl. Nano Mater.; Plos One; Polym. Test.; Acta Mech. Sin.; Eur. Phys. J. Plus; Mech. Based Des. Struc.
 
 * Referee for the funding agency: UKRI-Engineering and Physical Sciences Research Council (EPSRC); Research Grants Council (RGC) of Hong Kong
