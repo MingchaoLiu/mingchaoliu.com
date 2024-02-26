@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 
 ---
+* 2024/02: Our paper, 'Bio-inspired facile strategy for programmable osmosis-driven shape-morphing elastomer composite structures.', has been published in [*Materials Horizons*](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a).
 * 2024/02: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been featured on the [*News*](https://www.birmingham.ac.uk/news/2024/birmingham-academic-honoured-with-extreme-mechanics-letters-young-investigator-award) of the University of Birmingham.
 * 2023/12: Our paper, 'Hierarchical Tessellation Enables Programmable Morphing Matter.', has been published in [*Matter*](https://authors.elsevier.com/c/1iBCZ9Cyxd31hR).
 * 2023/11: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the prestigious [*Extreme Mechanics Letters (EML) Young Investigator Award*](https://imechanica.org/node/26993). Congratulations!
