@@ -18,9 +18,9 @@ axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 
 
 **2024**
-1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2024). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, 5, 1-13. (Invited Review)
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, K.J., Wang, Y.\* (2024). [Hierarchical tessellation enables general 3D shape-morphing structures.](https://www.sciencedirect.com/science/article/abs/pii/S2590238523005659?casa_token=ScF5V8fiyNEAAAAA:-fjf7t2Ep-Wxj6prBF5J-AUcNJaYpq8-QRpQlJQoahDIuOYArxYQ61v8Sq9vuSS1_j2Spxqb0Ho) **Matter**, 7, 603-619.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2024). [Tunable mechanics of architectured composites from particle assemblies.](https://doi.org/10.1016/j.eml.2024.102121) Extre. Mech. Lett., 2024, 67, 102121.
+1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2024). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, 5, 1-13. (Invited Review)
 1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2024). [Cage-shaped self-folding mechanical metamaterials.](https://doi.org/10.1016/j.ijsolstr.2023.112560) Int. J Solids Struct., 286–287, 112560.
 
 **2023**
