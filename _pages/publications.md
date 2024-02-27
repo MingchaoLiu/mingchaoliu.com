@@ -7,6 +7,8 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile. (* Corresponding author; # Equal contribution)
 
+![Cover Images](/figures/CoverImages.png "Cover Images")
+
 **Forthcoming**
 1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2024). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. Under Review. [Preprint](https://arxiv.org/abs/2312.15699)
 1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). Transient amplification of broken symmetry in elastic snap-through. Under Review. [Preprint](https://arxiv.org/abs/2312.13908) 
