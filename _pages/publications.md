@@ -15,11 +15,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Huang, W.\#, Liu, T.\#, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). Integration of kinks and creases enables tunable folding in meta-ribbons. **Matter**, Accepted.
-1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, K.J.\* (2024). Dehydration-induced corrugated folding in Rhapis excelsa plant leaves. **Proc. Natl. Acad. Sci. U.S.A.**, Accepted.
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2024). [Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures.](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a) **Mater. Horiz.**, In Press.
 
 
 **2024**
+1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, K.J.\* (2024). [Dehydration-induced corrugated folding in Rhapis excelsa plant leaves.](https://doi.org/10.1073/pnas.2320259121) **Proc. Natl. Acad. Sci. U.S.A.**, 121 (17), e2320259121.
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, K.J., Wang, Y.\* (2024). [Hierarchical tessellation enables general 3D shape-morphing structures.](https://www.sciencedirect.com/science/article/abs/pii/S2590238523005659?casa_token=ScF5V8fiyNEAAAAA:-fjf7t2Ep-Wxj6prBF5J-AUcNJaYpq8-QRpQlJQoahDIuOYArxYQ61v8Sq9vuSS1_j2Spxqb0Ho) **Matter**, 7, 603-619.
 1. Yang, X., **Liu, M.**, Chen, T., Chen, Y., Wang, Y.\* (2024). [Tunable mechanics of architectured composites from particle assemblies.](https://doi.org/10.1016/j.eml.2024.102121) Extre. Mech. Lett., 2024, 67, 102121. (**Featured** as the [**Front Cover**](https://www.sciencedirect.com/science/article/pii/S235243162400021X).)
 1. Qin, L., Peng, H., Huang, X., **Liu, M.**\*, Huang, W.\* (2024). [Modeling and simulation of dynamics in soft robotics: A review of numerical approaches.](https://doi.org/10.1007/s43154-023-00105-z) Current Robotics Reports, 5, 1-13. (Invited Review)
