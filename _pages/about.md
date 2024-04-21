@@ -18,6 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2024/04: Our paper, 'Dehydration-induced corrugated folding in Rhapis excelsa plant leaves.', has been published in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2320259121).
 1. 2024/02: Our paper, 'Bio-inspired facile strategy for programmable osmosis-driven shape-morphing elastomer composite structures.', has been published in [*Materials Horizons*](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a).
 1. 2024/02: Our paper, 'Tunable mechanics of architectured composites from particle assemblies.' has been published in [*EML*](https://doi.org/10.1016/j.eml.2024.102121) and **Featured** as the [**Front Cover**](https://www.sciencedirect.com/science/article/pii/S235243162400021X).
 1. 2024/02: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been featured on the [*News*](https://www.birmingham.ac.uk/news/2024/birmingham-academic-honoured-with-extreme-mechanics-letters-young-investigator-award) of the University of Birmingham.
