@@ -10,6 +10,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ![Cover Images](/figures/CoverImages.png "Cover Images")
 
 **Forthcoming**
+1. Huang, W.\*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Under Review.
+1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. Under Review.
+1. **Liu, M.**\#,*, Mao, W.\#, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2024). Observation of strain-rate softening behavior in jammed granular media. Under Review.
 1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2024). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. Under Review. [Preprint](https://arxiv.org/abs/2312.15699)
 1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). Transient amplification of broken symmetry in elastic snap-through. Under Review. [Preprint](https://arxiv.org/abs/2312.13908) 
 1. Huang, W.\#, Liu, T.\#, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
