@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 
 ---
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile. (* Corresponding author; # Equal contribution)
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile. (* Corresponding author; † Equal contribution)
 
 ![Cover Images](/figures/CoverImages.png "Cover Images")
 
 **Forthcoming**
 1. Huang, W.\*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Under Review.
 1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. Under Review.
-1. **Liu, M.**\#,*, Mao, W.\#, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2024). Observation of strain-rate softening behavior in jammed granular media. Under Review.
+1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2024). Observation of strain-rate softening behavior in jammed granular media. Under Review.
 1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2024). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. Under Review. [Preprint](https://arxiv.org/abs/2312.15699)
 1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). Transient amplification of broken symmetry in elastic snap-through. Under Review. [Preprint](https://arxiv.org/abs/2312.13908) 
-1. Huang, W.\#, Liu, T.\#, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
+1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). Integration of kinks and creases enables tunable folding in meta-ribbons. **Matter**, Accepted.
 1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2024). [Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures.](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a) **Mater. Horiz.**, In Press.
@@ -29,7 +29,7 @@ axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Meng, Z., Gao, X., Yan, H., **Liu, M.**, Cao, H., Mei, T., Chen, C.\* (2024). [Cage-shaped self-folding mechanical metamaterials.](https://doi.org/10.1016/j.ijsolstr.2023.112560) Int. J Solids Struct., 286–287, 112560.
 
 **2023**
-1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, K.J.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) **Soft Science**, 3, 38. (**Featured** as the [**Front Cover**](https://i.oaes.cc/uploads/20231120/e8f42b68ac7c4d0b8b018269702c8918.jpg).)
+1. Yang, X.†, Zhou, Y.†, Zhao, H., Huang, W., Wang, Y.\*, Hsia, K.J.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) **Soft Science**, 3, 38. (**Featured** as the [**Front Cover**](https://i.oaes.cc/uploads/20231120/e8f42b68ac7c4d0b8b018269702c8918.jpg).)
 1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 180, 105382. (**Highlighted** in Queen Mary University of London (QMUL) [**News**](https://www.sems.qmul.ac.uk/news/6484/researchers-create-multifunctional-shape-morphing-composite-materials-inspired-by-kirigami).)
 1. Huang, W., Zhang, Y., Yu, T.\*, **Liu, M.**\* (2023). [Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method.](https://doi.org/10.1115/1.4062533) J Appl. Mech., 90(9), 094501.
 1. Meng, Z., Yan, H., **Liu, M.**, Qin, W., Genin, G.M., Chen, C.\* (2023). [Encoding and storage of information in mechanical metamaterials.](https://doi.org/10.1002/advs.202301581) **Adv. Sci.**, 2301581. (**Highlighted** in [**Advanced Science News**](https://www.advancedsciencenews.com/storing-unhackable-data-in-metamaterials/), **Featured** as the [**Back Cover**](https://doi.org/10.1002/advs.202370133).)
