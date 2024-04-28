@@ -18,7 +18,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). Integration of kinks and creases enables tunable folding in meta-ribbons. **Matter**, Accepted.
-1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2024). [Bio-inspired Facile Strategy for Programmable Osmosis-driven Shape-morphing Elastomer Composite Structures.](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a) **Mater. Horiz.**, In Press.
+1. Yang, Y., Wang, Y., Lin, M., **Liu, M.**\*, Huang, C.\* (2024). [Bio-inspired facile strategy for programmable osmosis-driven shape-morphing elastomer composite structures.](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a) **Mater. Horiz.**, In Press.
 
 
 **2024**
