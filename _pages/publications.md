@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ![Cover Images](/figures/CoverImages.png "Cover Images")
 
-**Forthcoming**
+**Under review**
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2024). Observation of strain-rate softening behavior in jammed granular media. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Huang, W.\*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Under Review.
 1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. Under Review. [Preprint](https://www.researchgate.net/publication/380035693_Simplified_discrete_model_for_axisymmetric_dielectric_elastomer_membranes_with_robotic_applications?channel=doi&linkId=6628ba5fbb80b54d30ebe6be&showFulltext=true)
@@ -17,6 +17,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). Transient amplification of broken symmetry in elastic snap-through. Under Review. [Preprint](https://arxiv.org/abs/2312.13908) 
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
+
+**Forthcoming**
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). [Integration of kinks and creases enables tunable folding in meta-ribbons.](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2) **Matter**, In Press.
 
 
