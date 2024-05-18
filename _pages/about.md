@@ -18,7 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
-1. 2024/04: Our paper, 'Integration of kinks and creases enables tunable folding in meta-ribbons.', has been published in [*Matter*](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
+1. 2024/05: Our paper, 'Integration of kinks and creases enables tunable folding in meta-ribbons.', has been published in [*Matter*](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
 1. 2024/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been selected as a winner of the **Young Scientist Support Grant** for The 26th International Congress of Theoretical and Applied Mechanics ([**ICTAM 2024**](https://www.ictam2024.org/index.php)) held in Daegu, Korea on August 25-30, 2024.
 1. 2024/04: Our paper, 'Dehydration-induced corrugated folding in Rhapis excelsa plant leaves.', has been published in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2320259121) and **Featured** in the [**This week in PNAS**](https://www.pnas.org/doi/10.1073/iti1724121).
 1. 2024/02: Our paper, 'Bio-inspired facile strategy for programmable osmosis-driven shape-morphing elastomer composite structures.', has been published in [*Materials Horizons*](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01731a).
