@@ -18,8 +18,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
 
 **In Press**
-1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2024). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. **J Mech. Phys. Solids**, Accept. [Preprint](https://arxiv.org/abs/2312.15699)
-1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). [Transient amplification of broken symmetry in elastic snap-through.](https://journals.aps.org/prl/accepted/90079YdfZ741ae8797433601a2171528e12cc5935) **Phys. Rev. Lett.**, Accept. [Preprint](https://arxiv.org/abs/2312.13908) 
+1. Huang, W., Yu, T., Vella, D., Hsia, K.J.\*, **Liu, M.**\* (2024). Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. **J Mech. Phys. Solids**, Accepted. [Preprint](https://arxiv.org/abs/2312.15699)
+1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). [Transient amplification of broken symmetry in elastic snap-through.](https://journals.aps.org/prl/accepted/90079YdfZ741ae8797433601a2171528e12cc5935) **Phys. Rev. Lett.**, Accepted. [Preprint](https://arxiv.org/abs/2312.13908) 
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). [Integration of kinks and creases enables tunable folding in meta-ribbons.](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2) **Matter**, In Press.
 
 
