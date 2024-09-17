@@ -16,7 +16,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). Strain gradient regulated bifurcation of bilayer circular plates. Under Review.
 1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. Under Review. [Preprint](https://www.researchgate.net/publication/380035693_Simplified_discrete_model_for_axisymmetric_dielectric_elastomer_membranes_with_robotic_applications?channel=doi&linkId=6628ba5fbb80b54d30ebe6be&showFulltext=true)
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
-axisymmetric shells. Under Review. [Preprint](http://arxiv.org/abs/2401.09954)
+axisymmetric shells. Int. J Mech. Sci., Accepted. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
 
 **In Press**
