@@ -15,12 +15,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2024). Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning. Under Review. [Preprint](https://arxiv.org/abs/2408.10470).
 1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). Strain gradient regulated bifurcation of bilayer circular plates. Under Review.
 1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. Under Review. [Preprint](https://www.researchgate.net/publication/380035693_Simplified_discrete_model_for_axisymmetric_dielectric_elastomer_membranes_with_robotic_applications?channel=doi&linkId=6628ba5fbb80b54d30ebe6be&showFulltext=true)
-1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). Discrete differential geometry-based model for nonlinear analysis of
-axisymmetric shells. Int. J Mech. Sci., Accepted. [Preprint](http://arxiv.org/abs/2401.09954)
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
 
 **In Press**
-
+1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). [Discrete differential geometry-based model for nonlinear analysis of
+axisymmetric shells.](https://doi.org/10.1016/j.ijmecsci.2024.109742) Int. J Mech. Sci., In Press. [Preprint](http://arxiv.org/abs/2401.09954)
 
 **2024**
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). [Integration of kinks and creases enables tunable folding in meta-ribbons.](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2) **Matter**, 7(9), 3007-3023. [PDF](https://www.dropbox.com/scl/fi/og8tayemn97htsyukii6l/2024-Huang-Matter-Integration-of-kinks-and-creases-enables-tunable-folding-in-meta-ribbons.pdf?rlkey=ff2gxhopm3h5180mp57wyae2d&dl=0) [SI](https://www.dropbox.com/scl/fi/4kge2ar13bemkdcnp0289/2024-Huang-Matter-Integration-of-kinks-and-creases-enables-tunable-folding-in-meta-ribbons_SI.pdf?rlkey=h25xhezx1k55i5fq9yk3s167m&dl=0) (**Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2024/meta-ribbon-an-innovative-foldable-structure-with-tunable-behaviors) of the University of Birmingham.)
