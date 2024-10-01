@@ -17,7 +17,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
-1. Liu, Z., **Liu, M.**\*, Hsia, K.J., Huang, X., Huang, W.\* (2024). [Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications.](https://doi.org/10.1016/j.tws.2024.112502) Thin Wall. Struct., In press. [Preprint](https://www.researchgate.net/publication/380035693_Simplified_discrete_model_for_axisymmetric_dielectric_elastomer_membranes_with_robotic_applications?channel=doi&linkId=6628ba5fbb80b54d30ebe6be&showFulltext=true)
+1. Liu, Z., **Liu, M.**, Hsia, K.J., Huang, X., Huang, W.\* (2024). [Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications.](https://doi.org/10.1016/j.tws.2024.112502) Thin Wall. Struct., In press. [Preprint](https://www.researchgate.net/publication/380035693_Simplified_discrete_model_for_axisymmetric_dielectric_elastomer_membranes_with_robotic_applications?channel=doi&linkId=6628ba5fbb80b54d30ebe6be&showFulltext=true)
 
 **2024**
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). [Discrete differential geometry-based model for nonlinear analysis of
