@@ -16,7 +16,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
-1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). Strain gradient regulated bifurcation of bilayer circular plates. Extre. Mech. Lett., Accepted.
+1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). [Strain gradient regulated bifurcation of bilayer circular plates.](https://doi.org/10.1016/j.eml.2024.102250) Extre. Mech. Lett., In Press.
 
 **2024**
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). [Discrete differential geometry-based model for nonlinear analysis of
