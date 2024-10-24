@@ -16,9 +16,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
-1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). [Strain gradient regulated bifurcation of bilayer circular plates.](https://doi.org/10.1016/j.eml.2024.102250) Extre. Mech. Lett., In Press.
 
 **2024**
+1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). [Strain gradient regulated bifurcation of bilayer circular plates.](https://doi.org/10.1016/j.eml.2024.102250) Extre. Mech. Lett., 72, 102250. [PDF](https://www.dropbox.com/scl/fi/uvf8zau3cmciqn2uytbfn/2024-Cao-EML-Linear-strain-gradient-regulated-bifurcation-of-circular-bilayer-plates.pdf?rlkey=pu0ncvjwbxkxg3y85w6md02em&dl=0)
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). [Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells.](https://doi.org/10.1016/j.ijmecsci.2024.109742) Int. J Mech. Sci., 283, 109742. [PDF](https://www.dropbox.com/scl/fi/onbaba020bm747hrnh48a/2024-Huang-IJMS-Discrete-differential-geometry-based-model-for-nonlinear-analysis-of-axisymmetric-shells.pdf?rlkey=ndfnr2j77uutk41amqkgymnxi&dl=0)
 1. Liu, Z., **Liu, M.**, Hsia, K.J., Huang, X., Huang, W.\* (2024). [Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications.](https://doi.org/10.1016/j.tws.2024.112502) Thin Wall. Struct., 205, 112502. [PDF](https://www.dropbox.com/scl/fi/wd7ujdev1jvv8yompabnp/2024-Liu-TWS-Simplified-discrete-model-for-axisymmetric-dielectric-elastomer-membranes-with-robotic-applications.pdf?rlkey=23iciub5ixkycghfkjwtfyuyt&dl=0)
