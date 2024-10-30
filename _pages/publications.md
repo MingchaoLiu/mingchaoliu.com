@@ -15,9 +15,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2024). Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning. Under Review. [Preprint](https://arxiv.org/abs/2408.10470).
 
 **Accepted and In Press**
-1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). Snap-through eversion of axisymmetric shells under contact indentation. Proc. Royal Soc. A, Accepted.
+
 
 **2024**
+1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). [Snap-through eversion of axisymmetric shells under contact indentation.](https://doi.org/10.1098/rspa.2024.0303) **Proc. Royal Soc. A**, 480, 20240303. [PDF](https://www.dropbox.com/scl/fi/3mwp87x6kc8qvrji8kf0o/2024-Huang-PRSA-Snap-through-eversion-of-axisymmetric-shells-under-contact-indentation.pdf?rlkey=lvvck6txv2crxk03tyvnwp45x&dl=0)
 1. Cao, B. Yang, Y., **Liu, M.**\*, Huang, C.\* (2024). [Strain gradient regulated bifurcation of bilayer circular plates.](https://doi.org/10.1016/j.eml.2024.102250) Extre. Mech. Lett., 72, 102250. [PDF](https://www.dropbox.com/scl/fi/uvf8zau3cmciqn2uytbfn/2024-Cao-EML-Linear-strain-gradient-regulated-bifurcation-of-circular-bilayer-plates.pdf?rlkey=pu0ncvjwbxkxg3y85w6md02em&dl=0)
 1. Huang, W.†, Liu, T.†, Liu, Z., Xu, P., **Liu, M.**\*, Chen, Y.\*, Hsia, K.J.\* (2024). [Discrete differential geometry-based model for nonlinear analysis of
 axisymmetric shells.](https://doi.org/10.1016/j.ijmecsci.2024.109742) Int. J Mech. Sci., 283, 109742. [PDF](https://www.dropbox.com/scl/fi/onbaba020bm747hrnh48a/2024-Huang-IJMS-Discrete-differential-geometry-based-model-for-nonlinear-analysis-of-axisymmetric-shells.pdf?rlkey=ndfnr2j77uutk41amqkgymnxi&dl=0)
