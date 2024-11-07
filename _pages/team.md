@@ -9,12 +9,12 @@ author_profile: true
 Current Members
 --------
 * Qun Zhang, PhD Student (09/2023 - )
-* Nan Li, Visiting PhD student from Xi'an Jiaotong University (11/2023 - )
-* Zehui Peng, MSc student (06/2024 - )
 
 Alumni
 --------
 * Weining Mao, Research Associate (07/2022 - 06/2023, taken the position at NTU), Currently PhD student at NTU.
+* Nan Li, Visiting PhD student from Xi'an Jiaotong University (11/2023 - 10/2024)
+* Zehui Peng, MSc student (06/2024 - 09/2024)
 
 Collaborators
 --------
