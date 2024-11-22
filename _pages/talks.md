@@ -7,6 +7,11 @@ author_profile: true
 
 Conference Presentations
 --------
+1.	2024/08 &nbsp; Liu M. Integration of Kinks and Creases Enables Tunable Folding in Meta-ribbons, [ICTAM 2024](https://www.ictam2024.org/), Daegu, Republic of Korea. (Oral Presentation & Young Scientist Support Grant)
+1.	2024/08 &nbsp; Liu M. Strain-Rate Dependent Behavior in Jammed Granular Media, [SES 2024](https://www.2024ses.com/), Hangzhou, China. (Oral Presentation, Symposia Organizer & Section Chair)
+1.	2024/08 &nbsp; Liu M. Tensile Buckling of a Stretched Sheet, ICCES 2024, Singapore. (Invited Speaker, Symposia Organizer & Section Chair)
+1.	2024/07 &nbsp; Liu M. Transforming 2D to 3D: Mechanics Principles Enable Shape-Morphing. [EcoMat Conference 2024](https://www.northumbria.ac.uk/about-us/news-events/events/2024/07/ecomat-2024/), Northumbria University, UK. (Invited Speaker)
+1.	2024/02 &nbsp; Liu M. Transforming 2D to 3D: Kirigami principles enable shape-morphing, INI Network Workshop, University of Strathclyde, UK. (Invited Speaker)
 1.  2023/12 &nbsp; Liu M. Transforming 2D to 3D: Kirigami Enable Shape-Morphing, Workshop on Geometrically Guided Analysis and Design in Optimization and Control, NTU, Singapore. (Invited presentation)
 1.  2023/10 &nbsp; Liu M., Guo K., Hsia K.J. Dehydration-induced shape-morphing in leaves: From natural to artificial systems, [SES 2023](https://2023ses.com/), Minneapolis, USA. (Oral presentation & Section Chair)
 1.	2023/09 &nbsp; Liu M., Yang X., Hsia K.J., Wang Y. Hierarchical tessellation enables general 3D shape-morphing structures, [UK Metamaterials Network International Conference on Mechanical Metamaterials (ICMM 2023)](https://metamaterials.network/uk-metamaterials-network-international-conference-on-mechanical-metamaterials/), Manchester, UK. (Oral presentation)
@@ -25,6 +30,11 @@ Conference Presentations
 
 Invited Seminars
 --------
+1.  2024/10 &nbsp; Swansea University, Zienkiewicz Institute for Modelling, Data and AI (Invited by Dr. Mokarram Hossain)
+1.	2024/07 &nbsp; [EML Webinar (Young Researchers Forum)](https://www.youtube.com/watch?v=aZe6Ly7fpWw) (Discussion Leader: Prof. Dominic Vella)
+1.	2024/05 &nbsp; Birmingham International Scholars Forum, University of Birmingham
+1.	2024/04 &nbsp; University of Michigan, Robotics Department (Invited by Prof. Xiaonan Huang)
+1.	2024/03 &nbsp; King’s College London, Department of Engineering (Invited by Dr. Juan Li)
 1.  2023/12 &nbsp; National University of Singapore, Department of Mechanical Engineering (Invited by Prof. Wei Zhai)
 1.  2023/05 &nbsp; Southwest Jiaotong University, School of Mechanics and Engineering (Invited by Prof. Kaijuan Chen)
 1.  2023/05 &nbsp; Fudan University, Department of Aeronautics and Astronautics (Invited by Prof. Fan Xu)
