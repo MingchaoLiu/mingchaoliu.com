@@ -10,9 +10,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ![Cover Images](/figures/CoverImages_2406.png "Cover Images")
 
 **Under review**
-1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2024). Tension-induced giant actuation in unstructured elastic sheets. Under Review. [Preprint](https://arxiv.org/abs/2408.14239)
-1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2024). Observation of strain-rate softening behavior in jammed granular media. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
-1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). How do imperfections cause asymmetry in elastic snap-through?. Under Review. [Preprint](https://arxiv.org/abs/2411.13971).
+1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Tension-induced giant actuation in unstructured elastic sheets. Under Review. [Preprint](https://arxiv.org/abs/2408.14239)
+1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Observation of strain-rate softening behavior in jammed granular media. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
+1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). How do imperfections cause asymmetry in elastic snap-through?. Under Review. [Preprint](https://arxiv.org/abs/2411.13971).
+1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Snap-through buckling in heavy hard magnetic elastica. Under Review.
 
 **Accepted and In Press**
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2024). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) IEEE Robot. Autom. Lett. In Press. [Preprint](https://arxiv.org/abs/2408.10470).
