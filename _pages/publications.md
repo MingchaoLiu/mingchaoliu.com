@@ -16,7 +16,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Snap-through buckling in heavy hard magnetic elastica. Under Review.
 
 **Accepted and In Press**
-1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2024). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) IEEE Robot. Autom. Lett. In Press. [Preprint](https://arxiv.org/abs/2408.10470).
+
+**2025**
+1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2025). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) **IEEE Robot. Autom. Lett.**, 10(2), 1720-1727. [Preprint](https://arxiv.org/abs/2408.10470).
 
 **2024**
 1. Huang, W.\*, Liu, Z.*, **Liu, M.**\*, Hsia, K.J.\* (2024). [Snap-through eversion of axisymmetric shells under contact indentation.](https://doi.org/10.1098/rspa.2024.0303) **Proc. Royal Soc. A**, 480, 20240303. [PDF](https://www.dropbox.com/scl/fi/3mwp87x6kc8qvrji8kf0o/2024-Huang-PRSA-Snap-through-eversion-of-axisymmetric-shells-under-contact-indentation.pdf?rlkey=lvvck6txv2crxk03tyvnwp45x&dl=0)
