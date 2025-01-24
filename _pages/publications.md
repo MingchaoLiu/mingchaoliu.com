@@ -14,6 +14,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Observation of strain-rate softening behavior in jammed granular media. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). How do imperfections cause asymmetry in elastic snap-through?. Under Review. [Preprint](https://arxiv.org/abs/2411.13971).
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Snap-through buckling in heavy hard magnetic elastica. Under Review.
+1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. Under Review.
 
 **Accepted and In Press**
 
