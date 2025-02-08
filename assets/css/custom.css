@@ -1,0 +1,19 @@
+/* 假设列表共有6项，则初始值为7（6+1），请根据实际情况调整 */
+.reversed-list {
+  counter-reset: revcounter 7;
+  list-style: none;
+  padding-left: 0;
+}
+
+.reversed-list li {
+  counter-increment: revcounter -1;
+  margin-bottom: 0.5em;
+  position: relative;
+}
+
+.reversed-list li::before {
+  content: counter(revcounter) ". ";
+  position: absolute;
+  left: -2em;
+  font-weight: bold;
+}
