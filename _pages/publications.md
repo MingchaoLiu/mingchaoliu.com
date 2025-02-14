@@ -14,11 +14,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Observation of strain-rate softening behavior in jammed granular media. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). How do imperfections cause asymmetry in elastic snap-through?. Under Review. [Preprint](https://arxiv.org/abs/2411.13971).
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
-1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Under Review.
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Snap-through buckling in heavy hard magnetic elastica. Under Review.
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. Under Review.
 
 **Accepted and In Press**
+1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Soft Science. Accepted.
 
 **2025**
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2025). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) **IEEE Robot. Autom. Lett.**, 10(2), 1720-1727. [PDF](https://www.dropbox.com/scl/fi/0yt4t1q68rplltsdlpm9m/2025-Tong-IEEERAL-Inverse-design-of-snap-actuated-jumping-robots-powered-by-mechanics-aided-machine-learning.pdf?rlkey=cd8nf3q5uld17hyz8uq3v6scd&dl=0).
