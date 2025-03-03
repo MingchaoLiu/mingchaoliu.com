@@ -9,6 +9,7 @@ author_profile: true
 Current Members
 --------
 * Qun Zhang, PhD Student (09/2023 - )
+* Xinlu Deng, Visiting PhD student from Shanghai Jiaotong University (03/2025 - )
 
 Alumni
 --------
