@@ -26,7 +26,7 @@ Education
 
 Work experience
 --------
-* June 2022 - now: Assistant Professor
+* Sept. 2023 - now: Assistant Professor
   * University of Birmingham
 
 * Feb. 2022 - Aug. 2023: Presidential Postdoctoral Fellow
@@ -36,6 +36,17 @@ Work experience
 * Dec. 2018 - Feb. 2022: Research Fellow
   * University of Oxford
   * Host Supervisor: Prof. Dominic Vella
+
+Awards
+--------
+* 2025 **Highly Commended for Outstanding Impact by an Early Career Researcher** by the University of Birmingham
+
+* 2025 **Most Influential Paper Award** in **Soft Science**
+
+* 2024 **Young Scientist Support Grant** for The 26th International Congress of Theoretical and Applied Mechanics (ICTAM 2024)
+
+* 2023 **Extreme Mechanics Letters (EML) Young Investigator Award**
+
 
 Grants and Independent Fellowships
 --------
@@ -47,13 +58,13 @@ Grants and Independent Fellowships
 
 Selected Publications
 --------
+1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2025). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) **IEEE Robot. Autom. Lett.**, 10(2), 1720-1727.
+1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). [Integration of kinks and creases enables tunable folding in meta-ribbons.](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2) **Matter**, 7(9), 3007-3023.
+1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). [Transient amplification of broken symmetry in elastic snap-through.](https://journals.aps.org/prl/accepted/90079YdfZ741ae8797433601a2171528e12cc5935) **Phys. Rev. Lett.**, 132, 267201.
 1. Guo, K., **Liu, M.**\*, Vella, D., Suresh, S.\*, Hsia, K.J.\* (2024). [Dehydration-induced corrugated folding in Rhapis excelsa plant leaves.](https://doi.org/10.1073/pnas.2320259121) **Proc. Natl. Acad. Sci. U.S.A.**, 121 (17), e2320259121. (**Featured** in the [**This week in PNAS**](https://www.pnas.org/doi/10.1073/iti1724121).)
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, K.J., Wang, Y.\* (2024). [Hierarchical tessellation enables general 3D shape-morphing structures.](https://authors.elsevier.com/c/1iBCZ9Cyxd31hR) **Matter**, 7, 603-619.
 1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, K.J.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) **Soft Science**, 3, 38. (**Featured** as the [**Front Cover**](https://i.oaes.cc/uploads/20231120/e8f42b68ac7c4d0b8b018269702c8918.jpg).)
-1. Kansaraa, H., **Liu, M.**\*, He, Y., Tan, W.\* (2023). [Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites.](https://www.sciencedirect.com/science/article/pii/S0022509623001862) **J Mech. Phys. Solids**, 105382.
 1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
-1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures.](https://doi.org/10.1016/j.eml.2023.101977) **Extre. Mech. Lett.**, 59, 101977.
-1. Huang, W., **Liu, M.**\*, Hsia, J.K.\* (2023). [Modeling of magnetic cilia carpet robots using discrete differential geometry formulation.](https://doi.org/10.1016/j.eml.2023.101967) **Extre. Mech. Lett.**, 59, 101967.
 1. Meng, Z., **Liu, M.**, Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460.
 1. **Liu, M.**, Gomez, M., Vella, D.\* (2021). [Delayed bifurcation in elastic snap-through instabilities.](https://doi.org/10.1016/j.jmps.2021.104386) **J Mech. Phys. Solids**, 151, 104386.
 1. **Liu, M.**, Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750.
@@ -63,6 +74,6 @@ Service and leadership
 * Early Career Advisory Board (EML-ECAB), Special Editor for Social Media Engagement: [*Extreme Mechanics Letters*](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
 * Youth Editorial Board: [*Soft Science*](https://softscijournal.com/)
 
-* Referee for peer-reviewed journals: Proc. Natl. Acad. Sci.; Phys. Rew. Lett.; J Mech. Phys. Solids; Extre. Mech. Lett.; Int. J Solids Struct.; Proc. R. Soc. A; Phys. Rev. B; Phys. Rev. E; Phys. Rev. Appl.; EcoMat; Adv. Sci., Adv. Intell. Syst.; Int. J. Extreme Manuf.; Mech. Mater.; Phys. Fluids; Virtual Phys. Prototyp.; Int. J Mech. Mater. Design; ACS Appl. Nano Mater.; Plos One; Polym. Test.; Acta Mech. Sin.; Chinese J. Aeronaut.; Eur. Phys. J. Plus; Mech. Based Des. Struc.
+* Referee for peer-reviewed journals: Proc. Natl. Acad. Sci.; Phys. Rew. Lett.; J Mech. Phys. Solids; Extre. Mech. Lett.; Int. J Solids Struct.; Proc. R. Soc. A; Euro J Mech. A Solids; Mech. Mater.; Phys. Rev. B; Phys. Rev. E; Phys. Rev. Appl.; Newton; Cell Rep. Phys. Sci.; EcoMat; Adv. Sci.; Adv. Intell. Syst.; Thin Wall. Struct.; Phys. Fluids; Virtual Phys. Prototyp.; Int. J Mech. Mater. Design; ACS Appl. Nano Mater; Soft Sci.
 
-* Referee for the funding agency: UKRI-Engineering and Physical Sciences Research Council (EPSRC); Research Grants Council (RGC) of Hong Kong
+* Referee for the funding agency: UKRI-Engineering and Physical Sciences Research Council (EPSRC); The Leverhulme Trust; Research Grants Council (RGC) of Hong Kong
