@@ -5,6 +5,12 @@ permalink: /news/
 author_profile: true
 
 ---
+* 2025/03: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Highly Commended for Outstanding Impact by an Early Career Researcher** by the University of Birmingham.
+* 2025/03: Our paper, '[*Morphing matter: from mechanical principles to robotic applications.*](http://dx.doi.org/10.20517/ss.2023.42)', has been awarded the **Most Influential Paper Award** in [**Soft Science**](https://www.oaepublish.com/news/ss.1069).
+* 2025/02: Our paper, 'Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.', has been published in [*IEEE Robot. Autom. Lett.*](https://ieeexplore.ieee.org/document/10816482).
+* 2024/10: Our paper, 'Snap-through eversion of axisymmetric shells under contact indentation.', has been published in [*Proc. Royal Soc. A*](https://doi.org/10.1098/rspa.2024.0303).
+* 2024/06: Our paper, 'Transient amplification of broken symmetry in elastic snap-through.', has been published in [*Phys. Rev. Lett.*](https://doi.org/10.1103/PhysRevLett.132.267201).
+* 2024/06: Our paper, 'Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection.', has been published in [*J Mech. Phys. Solids*](https://www.sciencedirect.com/science/article/pii/S002250962400187X).
 * 2024/05: Our paper, 'Integration of kinks and creases enables tunable folding in meta-ribbons.', has been published in [*Matter*](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
 * 2024/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been selected as a winner of the **Young Scientist Support Grant** for The 26th International Congress of Theoretical and Applied Mechanics ([**ICTAM 2024**](https://www.ictam2024.org/index.php)) held in Daegu, Korea on August 25-30, 2024.
 * 2024/04: Our paper, 'Dehydration-induced corrugated folding in Rhapis excelsa plant leaves.', has been published in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2320259121) and **Featured** in the [**This week in PNAS**](https://www.pnas.org/doi/10.1073/iti1724121).
