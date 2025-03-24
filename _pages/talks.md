@@ -7,6 +7,7 @@ author_profile: true
 
 Invited Seminars
 --------
+1.  2025/03 &nbsp; University of Warwick, Mathematics Institute (Invited by Prof. Tom Montenegro-Johnson)
 1.  2025/02 &nbsp; [UK Metamaterials Network Colloquia Series.](https://cassyni.com/events/BDapvk34FyguGAwBwRbgWZ) (Orginazed by: [UK Metamaterials Network](https://metamaterials.network/colloquia-series-2024-25/))
 1.  2025/01 &nbsp; University of Science and Technology of China, Department of Modern Mechanics (Invited by Prof. Liu Wang)
 1.  2024/10 &nbsp; Swansea University, Zienkiewicz Institute for Modelling, Data and AI (Invited by Dr. Mokarram Hossain)
