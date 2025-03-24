@@ -5,6 +5,33 @@ permalink: /talks/
 author_profile: true
 ---
 
+Invited Seminars
+--------
+1.  2025/02 &nbsp; [UK Metamaterials Network Colloquia Series.](https://cassyni.com/events/BDapvk34FyguGAwBwRbgWZ) (Orginazed by: [UK Metamaterials Network](https://metamaterials.network/colloquia-series-2024-25/))
+1.  2025/01 &nbsp; University of Science and Technology of China, Department of Modern Mechanics (Invited by Prof. Liu Wang)
+1.  2024/10 &nbsp; Swansea University, Zienkiewicz Institute for Modelling, Data and AI (Invited by Dr. Mokarram Hossain)
+1.	2024/07 &nbsp; [EML Webinar (Young Researchers Forum)](https://www.youtube.com/watch?v=aZe6Ly7fpWw) (Discussion Leader: Prof. Dominic Vella)
+1.	2024/05 &nbsp; Birmingham International Scholars Forum, University of Birmingham
+1.	2024/04 &nbsp; University of Michigan, Robotics Department (Invited by Prof. Xiaonan Huang)
+1.	2024/03 &nbsp; King’s College London, Department of Engineering (Invited by Dr. Juan Li)
+1.  2023/12 &nbsp; National University of Singapore, Department of Mechanical Engineering (Invited by Prof. Wei Zhai)
+1.  2023/05 &nbsp; Southwest Jiaotong University, School of Mechanics and Engineering (Invited by Prof. Kaijuan Chen)
+1.  2023/05 &nbsp; Fudan University, Department of Aeronautics and Astronautics (Invited by Prof. Fan Xu)
+1.  2023/04 &nbsp; Zhejiang University, Department of Engineering Mechanics (Invited by Prof. Guoyong Mao)
+1.  2023/04 &nbsp; Beijing University of Technology, School of Mechanical & Electronic Engineering (Invited by Prof. Junjie Liu)
+1.  2023/04 &nbsp; Peking University, College of Engineering (Invited by Prof. Zhaohe Dai)
+1.  2023/03 &nbsp; [iCANX Youth Talks (Virtual)](https://ueurmavzb.vzan.com/live/page/1639098883?shauid=undefined&vprid=0&v=1680491243329) (Invited by Prof. Zhen Yin)
+1.  2023/03 &nbsp; University of California, Los Angeles, Department of Mechanical and Aerospace Engineering (Invited by Prof. Lihua Jin)
+1.  2022/09 &nbsp; University of Amsterdam, Institute of Physics (Invited by Prof. Corentin Coulais)
+1.  2022/09 &nbsp; Max Planck Institute for Intelligent Systems, Physical Intelligence Department (Invited by Prof. Metin Sitti)
+1.	2021/03 &nbsp; EASF_Young Webinar (Virtual) (Invited by Prof. Xuan Zhang)
+1.	2020/04 &nbsp; Beijing University of Technology, School of Mechanical & Electronic Engineering (Invited by Prof. Jiajia Mao)
+1.	2019/11 &nbsp; Technische Universität Berlin, Institute of Materials Science and Technology (Invited by Dr. Dorian A. H. Hanaor)
+1.	2018/04 &nbsp; Shandong University, Department of Engineering Mechanics (Invited by Prof. Binglei Wang)
+1.	2017/11 &nbsp; Fudan University, Department of Aeronautics and Astronautics (Invited by Prof. Fan Xu)
+1.	2017/09 &nbsp; The University of Sydney, School of Civil Engineering (Invited by Prof. Yixiang Gan)
+
+
 Conference Presentations
 --------
 1.	2024/08 &nbsp; Liu M. Integration of Kinks and Creases Enables Tunable Folding in Meta-ribbons, [ICTAM 2024](https://www.ictam2024.org/), Daegu, Republic of Korea. (Oral Presentation & Young Scientist Support Grant)
@@ -27,27 +54,3 @@ Conference Presentations
 1.	2016/08 &nbsp; Liu M., Gan Y. Wu J., Chen C. Surface effect on the adsorption-induced deformation of ordered porous material. ICTAM 2016, Montréal, Canada. (Poster presentation)
 1.	2015/04 &nbsp; Liu M., Flores-Johnson E., Shen L., Chen C., Gan Y., Numerical simulations of wrinkling by patterned defects in metal thin films. ICCM 2015, Auckland, New Zealand. (Oral presentation)
 1.	2014/12 &nbsp; Liu M. & Chen C. Fracture of saturated porous media: A two-dimensional model analysis. APCFS/SIF-2014, Sydney, Australia. (Oral presentation)
-
-Invited Seminars
---------
-1.  2024/10 &nbsp; Swansea University, Zienkiewicz Institute for Modelling, Data and AI (Invited by Dr. Mokarram Hossain)
-1.	2024/07 &nbsp; [EML Webinar (Young Researchers Forum)](https://www.youtube.com/watch?v=aZe6Ly7fpWw) (Discussion Leader: Prof. Dominic Vella)
-1.	2024/05 &nbsp; Birmingham International Scholars Forum, University of Birmingham
-1.	2024/04 &nbsp; University of Michigan, Robotics Department (Invited by Prof. Xiaonan Huang)
-1.	2024/03 &nbsp; King’s College London, Department of Engineering (Invited by Dr. Juan Li)
-1.  2023/12 &nbsp; National University of Singapore, Department of Mechanical Engineering (Invited by Prof. Wei Zhai)
-1.  2023/05 &nbsp; Southwest Jiaotong University, School of Mechanics and Engineering (Invited by Prof. Kaijuan Chen)
-1.  2023/05 &nbsp; Fudan University, Department of Aeronautics and Astronautics (Invited by Prof. Fan Xu)
-1.  2023/04 &nbsp; Zhejiang University, Department of Engineering Mechanics (Invited by Prof. Guoyong Mao)
-1.  2023/04 &nbsp; Beijing University of Technology, School of Mechanical & Electronic Engineering (Invited by Prof. Junjie Liu)
-1.  2023/04 &nbsp; Peking University, College of Engineering (Invited by Prof. Zhaohe Dai)
-1.  2023/03 &nbsp; iCANX Youth Talks (Virtual) (Invited by Prof. Zhen Yin)
-1.  2023/03 &nbsp; University of California, Los Angeles, Department of Mechanical and Aerospace Engineering (Invited by Prof. Lihua Jin)
-1.  2022/09 &nbsp; University of Amsterdam, Institute of Physics (Invited by Prof. Corentin Coulais)
-1.  2022/09 &nbsp; Max Planck Institute for Intelligent Systems, Physical Intelligence Department (Invited by Prof. Metin Sitti)
-1.	2021/03 &nbsp; EASF_Young Webinar (Virtual) (Invited by Prof. Xuan Zhang)
-1.	2020/04 &nbsp; Beijing University of Technology, School of Mechanical & Electronic Engineering (Invited by Prof. Jiajia Mao)
-1.	2019/11 &nbsp; Technische Universität Berlin, Institute of Materials Science and Technology (Invited by Dr. Dorian A. H. Hanaor)
-1.	2018/04 &nbsp; Shandong University, Department of Engineering Mechanics (Invited by Prof. Binglei Wang)
-1.	2017/11 &nbsp; Fudan University, Department of Aeronautics and Astronautics (Invited by Prof. Fan Xu)
-1.	2017/09 &nbsp; The University of Sydney, School of Civil Engineering (Invited by Prof. Yixiang Gan)
