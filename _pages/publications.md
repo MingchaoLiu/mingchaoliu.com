@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Accepted and In Press**
 1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Soft Science. Accepted.
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Snap-through buckling in heavy hard magnetic elastica. Proc. Royal Soc. A. Accepted.
-1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). How do imperfections cause asymmetry in elastic snap-through?. Phys. Rew. E. Accepted. [Preprint](https://arxiv.org/abs/2411.13971).
+1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://journals.aps.org/pre/accepted/39073Rc2L0312423f2383b79833feb25f462a0aea). Phys. Rew. E. Accepted. [Preprint](https://arxiv.org/abs/2411.13971).
 
 
 **2025**
