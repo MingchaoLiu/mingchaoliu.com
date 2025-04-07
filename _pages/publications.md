@@ -13,10 +13,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Tong, D., Hao, Z., Li, J., Sun, B., **Liu, M.**\*, Wang, L.\*, Huang, W.\* (2025). Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. Under Review. [Preprint](https://arxiv.org/abs/2503.08864)
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
-1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. Under Review.
 
 **Accepted and In Press**
 1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Localized tension-induced giant folding in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
+1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. **Sci. Adv.**. Accepted.
 1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Soft Science. Accepted.
 1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://journals.aps.org/pre/accepted/39073Rc2L0312423f2383b79833feb25f462a0aea). Phys. Rew. E. Accepted. [Preprint](https://arxiv.org/abs/2411.13971).
 
