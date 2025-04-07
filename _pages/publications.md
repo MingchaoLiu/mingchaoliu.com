@@ -16,7 +16,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. Under Review.
 
 **Accepted and In Press**
-1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Tension-induced giant actuation in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
+1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Localized tension-induced giant folding in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
 1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Soft Science. Accepted.
 1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://journals.aps.org/pre/accepted/39073Rc2L0312423f2383b79833feb25f462a0aea). Phys. Rew. E. Accepted. [Preprint](https://arxiv.org/abs/2411.13971).
 
