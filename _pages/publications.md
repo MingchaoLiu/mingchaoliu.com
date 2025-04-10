@@ -19,10 +19,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Localized tension-induced giant folding in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. **Sci. Adv.**. Accepted.
 1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials. Soft Science. Accepted.
-1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://journals.aps.org/pre/accepted/39073Rc2L0312423f2383b79833feb25f462a0aea). Phys. Rew. E. Accepted. [Preprint](https://arxiv.org/abs/2411.13971).
 
 
 **2025**
+1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://doi.org/10.1103/PhysRevE.111.045503). Phys. Rew. E. 111, 045503. [Preprint](https://arxiv.org/abs/2411.13971).
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). [Snap-through buckling in heavy hard magnetic elastica.](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008) Proc. Royal Soc. A, 481, 20250008. [PDF](https://www.dropbox.com/scl/fi/ug8i6fe0iq36xg52h4r0j/2025-Zhang-PRSA-Snap-through-buckling-in-heavy-hard-magnetic-elastica.pdf?rlkey=64ka79eh8xj740nszcqjg78dm&dl=0).
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2025). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) **IEEE Robot. Autom. Lett.**, 10(2), 1720-1727. [PDF](https://www.dropbox.com/scl/fi/0yt4t1q68rplltsdlpm9m/2025-Tong-IEEERAL-Inverse-design-of-snap-actuated-jumping-robots-powered-by-mechanics-aided-machine-learning.pdf?rlkey=cd8nf3q5uld17hyz8uq3v6scd&dl=0).
 
