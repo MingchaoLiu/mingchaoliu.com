@@ -39,6 +39,8 @@ Work experience
 
 Awards
 --------
+* 2025 **Mike Crisfield Prize** for best presentation by UKACM
+
 * 2025 **Highly Commended for Outstanding Impact by an Early Career Researcher** by the University of Birmingham
 
 * 2025 **Most Influential Paper Award** in **Soft Science**
