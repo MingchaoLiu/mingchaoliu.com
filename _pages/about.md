@@ -18,6 +18,9 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2025/04: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Mike Crisfield Prize** for best presentation by [UKACM](https://ukacm.org/).
+1. 2025/04: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) attended the [Euromech Colloquium 647](https://647.euromech.org/home/) at Glasgow as an invited speaker and presented "Adaptive Folding Matter: From Natural Morphogenesis to Tunable Meta-Ribbons".
+1. 2025/03: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) attended the [Euromech Colloquium 647](https://647.euromech.org/home/) at Glasgow as an invited speaker and presented "Adaptive Folding Matter: From Natural Morphogenesis to Tunable Meta-Ribbons".
 1. 2025/03: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Highly Commended for Outstanding Impact by an Early Career Researcher** by the University of Birmingham.
 1. 2025/03: Our paper, '[*Morphing matter: from mechanical principles to robotic applications.*](http://dx.doi.org/10.20517/ss.2023.42)', has been awarded the **Most Influential Paper Award** in [**Soft Science**](https://www.oaepublish.com/news/ss.1069).
 1. 2025/02: Our paper, 'Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.', has been published in [*IEEE Robot. Autom. Lett.*](https://ieeexplore.ieee.org/document/10816482).
