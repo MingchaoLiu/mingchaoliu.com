@@ -18,8 +18,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
 
 **Accepted and In Press**
+1. **Liu, M.**\* (2025). Mimicking prions for self-replicating machines. **Newton**. Accepted. (Invited Preview)
 1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Localized tension-induced giant folding in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
-1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. **Sci. Adv.**. Accepted.
+1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. **Sci. Adv.** Accepted.
 
 
 **2025**
