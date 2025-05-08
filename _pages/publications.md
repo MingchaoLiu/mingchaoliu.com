@@ -18,12 +18,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
 
 **Accepted and In Press**
-1. **Liu, M.**\* (2025). Mimicking prions for self-replicating machines. **Newton**. Accepted. (Invited Preview)
 1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). Localized tension-induced giant folding in unstructured elastic sheets. **Proc. Natl. Acad. Sci. U.S.A.** Accepted. [Preprint](https://arxiv.org/abs/2408.14239)
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). Achieving Symmetric Snap-Through Buckling via Designed Magnetic Actuation. **Sci. Adv.** Accepted.
 
 
 **2025**
+1. **Liu, M.**\* (2025). [Mimicking prions for self-replicating machines.](https://www.cell.com/newton/fulltext/S2950-6360(25)00099-4) **Newton**. 1, 100107. (Invited Preview)
 1. Giudici, A.†, Huang, W.†, Wang, Q., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2025). [How do imperfections cause asymmetry in elastic snap-through?](https://doi.org/10.1103/PhysRevE.111.045503). Phys. Rew. E. 111, 045503. [Preprint](https://arxiv.org/abs/2411.13971).
 1. Wang, Y., **Liu, M.**\*, Sareh, P., Liu, J.\*, Huang, W.\* (2025). [Towards Ultrastretchability, Multimodal Instability, and Static Nonreciprocity in Kirigami Metamaterials.](https://www.oaepublish.com/articles/ss.2024.73) Soft Science. 5, 19.
 1. Zhang, Y., Huang, W., **Liu, M.**, Yu, J.\*, Gao, H.\* (2025). [Snap-through buckling in heavy hard magnetic elastica.](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008) Proc. Royal Soc. A, 481, 20250008. [PDF](https://www.dropbox.com/scl/fi/ug8i6fe0iq36xg52h4r0j/2025-Zhang-PRSA-Snap-through-buckling-in-heavy-hard-magnetic-elastica.pdf?rlkey=64ka79eh8xj740nszcqjg78dm&dl=0).
