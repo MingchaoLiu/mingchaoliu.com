@@ -18,6 +18,9 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2025/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has attended [The 31st International Conference on Computational & Experimental Engineering and Sciences (ICCES2025)](https://www.iccesconf.org/) in Changsha, China and has been awarded the **ICCES Outstanding Young Researcher Award**.
+1. 2025/05: Our paper, 'Achieving symmetric snap-through buckling via designed magnetic actuation.', has been published in [*Sci. Adv.*](https://www.science.org/doi/10.1126/sciadv.adw1259).
+1. 2025/05: Our paper, 'Localized tension–induced giant folding in unstructured elastic sheets.', has been published in [*PNAS*](https://doi.org/10.1073/pnas.2423439122) and **Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2025/new-discovery-in-localised-pulling-opens-up-opportunities-in-engineering-design) of the University of Birmingham.
 1. 2025/04: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Mike Crisfield Prize** for best presentation by [UK Association for Computational Mechanics (UKACM)](https://ukacm.org/).
 1. 2025/04: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) attended the [IUTAM Symposium on Data Driven Mechanics](http://www.iutam-ddm2025.com/) at Cambridge as an invited speaker and presented "Mechanics-Aided Machine Learning for the Design of Snap-Actuated Jumping Robots".
 1. 2025/04: Our paper, 'Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations.', has been published in [*Phys. Rev. E*](https://doi.org/10.1103/PhysRevE.111.045503).
