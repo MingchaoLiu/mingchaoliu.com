@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+--------
+* Sept. 2023 - now: Assistant Professor
+  * University of Birmingham
+
+* Feb. 2022 - Aug. 2023: Presidential Postdoctoral Fellow
+  * Nanyang Technological University
+  * Host Mentor: Prof. K. Jimmy Hsia
+
+* Dec. 2018 - Feb. 2022: Research Fellow
+  * University of Oxford
+  * Host Supervisor: Prof. Dominic Vella
+
 Education
 --------
 * PhD in Engineering (Sept. 2013 – July 2018)
@@ -24,21 +37,10 @@ Education
   * Major: Engineering Mechanics
   * Department of Engineering Mechanics, Shandong University
 
-Work experience
---------
-* Sept. 2023 - now: Assistant Professor
-  * University of Birmingham
-
-* Feb. 2022 - Aug. 2023: Presidential Postdoctoral Fellow
-  * Nanyang Technological University
-  * Host Mentor: Prof. K. Jimmy Hsia
-
-* Dec. 2018 - Feb. 2022: Research Fellow
-  * University of Oxford
-  * Host Supervisor: Prof. Dominic Vella
-
 Awards
 --------
+* 2025 **ICCES Outstanding Young Researcher Award** by the International Conference on Computational & Experimental Engineering and Sciences
+
 * 2025 **Mike Crisfield Prize** for best presentation by UKACM
 
 * 2025 **Highly Commended for Outstanding Impact by an Early Career Researcher** by the University of Birmingham
