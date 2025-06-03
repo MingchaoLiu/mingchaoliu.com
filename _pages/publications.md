@@ -14,10 +14,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Feng, T., Chen, J., Wong, J.W., Li, S., Wang, Z., Li, X., Cao, J., Xue, Y., Yang, X.\*, **Liu, M.**\*, Li, T.\* (2025). Twisting-induced bifurcation and path manipulation in compressed ribbons. Under Review. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5226152)
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Barckicke, J.†, Domino, L.†, Zhang, Q, **Liu, M.**\*, Vella, D.\* (2025). Localization of deformation in the central hub of hub-and-spoke kirigami. Under Review. [Preprint](https://arxiv.org/abs/2504.06626)
-1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
+
 
 **Accepted and In Press**
-1. Tong, D., Hao, Z., Li, J., Sun, B., **Liu, M.**\*, Wang, L.\*, Huang, W.\* (2025). [Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens.](https://doi.org/10.1016/j.jmps.2025.106198) **J Mech. Phys. Solids** In Press. [Preprint](https://arxiv.org/abs/2503.08864)
+1. Tong, D., Hao, Z., Li, J., Sun, B., **Liu, M.**\*, Wang, L.\*, Huang, W.\* (2025). [Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens.](https://doi.org/10.1016/j.jmps.2025.106198) **J Mech. Phys. Solids**, In Press. [Preprint](https://arxiv.org/abs/2503.08864)
+1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. **Adv. Intell. Syst.**, Accepted. [Preprint](https://arxiv.org/abs/2502.00714).
 
 
 **2025**
