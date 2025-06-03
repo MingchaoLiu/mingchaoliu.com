@@ -17,7 +17,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. Under Review. [Preprint](https://arxiv.org/abs/2502.00714).
 
 **Accepted and In Press**
-1. Tong, D., Hao, Z., Li, J., Sun, B., **Liu, M.**\*, Wang, L.\*, Huang, W.\* (2025). Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. **J Mech. Phys. Solids** Accepted. [Preprint](https://arxiv.org/abs/2503.08864)
+1. Tong, D., Hao, Z., Li, J., Sun, B., **Liu, M.**\*, Wang, L.\*, Huang, W.\* (2025). [Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens.](https://doi.org/10.1016/j.jmps.2025.106198) **J Mech. Phys. Solids** In Press. [Preprint](https://arxiv.org/abs/2503.08864)
 
 
 **2025**
