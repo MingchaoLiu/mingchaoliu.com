@@ -13,10 +13,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Liu, M.**†,\*, Mao, W.†, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.\*, Hsia, K.J.\* (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. Under Review. [Preprint](https://arxiv.org/abs/2404.19321)
 1. Feng, T., Chen, J., Wong, J.W., Li, S., Wang, Z., Li, X., Cao, J., Xue, Y., Yang, X.\*, **Liu, M.**\*, Li, T.\* (2025). Twisting-induced bifurcation and path manipulation in compressed ribbons. Under Review. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5226152)
 1. Barckicke, J.†, Domino, L.†, Zhang, Q, **Liu, M.**\*, Vella, D.\* (2025). Localization of deformation in the central hub of hub-and-spoke kirigami. Under Review. [Preprint](https://arxiv.org/abs/2504.06626)
+1. Guo, K.†, Zhang, Y.†, Paradiso, M., Long, Y., Hsia, K.J.\*, **Liu, M.**\* (2025). Midveins regulate the shape formation of drying leaves. Under Review.
+1. Li, N., Zhang, Q., Huang, W.\*, Bai, C.\*, **Liu, M.**\* (2025). Dynamic snap-through of elastic beam under indentation. Under Review.
 
 
 **Accepted and In Press**
-1. Huang, W.†,\*, Hao, Z.†, Li, J.†, Tong, D.†, Guo, K., Zhang, Y., Gao, H.\*, Hsia, K.J.\*, **Liu, M.**\* (2025). A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. **Appl. Mech. Rev.**, Accepted. [Preprint](https://arxiv.org/abs/2504.11417) [Website](http://www.ddgflexsim.com/)
+1. Huang, W.†,\*, Hao, Z.†, Li, J.†, Tong, D.†, Guo, K., Zhang, Y., Gao, H.\*, Hsia, K.J.\*, **Liu, M.**\* (2025). [A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.](https://doi.org/10.1115/1.4069025) **Appl. Mech. Rev.**, In Press. [Preprint](https://arxiv.org/abs/2504.11417) [Website](http://www.ddgflexsim.com/)
 1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. **Adv. Intell. Syst.**, Accepted. [Preprint](https://arxiv.org/abs/2502.00714).
 
 
