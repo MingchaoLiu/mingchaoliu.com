@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mechanics of Robotic Metamaterials"
+title: "Mechanics of Adaptive Robotic Matter"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We are interested in the mechanics of slender structures and their applications in robotic metamaterials with innovative functions, which can be referred to as ''Mechanorobotics''. These functions include programmable robotic behaviors such as shape-morphing, mechanical sensing, actuation, memory, and computation, as well as tunable mechanical properties such as stress-strain relations, energy absorption, and vibration isolation. Our aim is to design and analyze these types of intelligent systems by harnessing mechanics theory, numerical simulations, and physical experiments.
+We work at the intersection of mechanics, materials, and robotics, with the overarching goal of creating adaptive robotic systems that are intelligent by design—structures that can sense, respond, and reconfigure autonomously without relying on complex electronics or traditional control algorithms. By integrating nonlinear mechanics with AI-driven design methodologies, we aim to establish the foundations for a new class of adaptive robotic matter: soft machines and metamaterials that harness structural logic, mechanical instabilities, and environmental stimuli to achieve multifunctional performance.
 
 ![Research Summary](/figures/ResearchSummary_2405.png "Research Summary")
 
