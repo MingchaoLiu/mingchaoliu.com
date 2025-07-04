@@ -18,6 +18,8 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2025/07: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has attended the **Florence Price Award for Outstanding Early-Career Academic** at the University of Birmingham [**Founders' Awards 2025**](https://www.birmingham.ac.uk/events/founders-awards/2025winners).
+1. 2025/06: Our paper, 'A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.', has been published in [*Appl. Mech. Rev.*](https://doi.org/10.1115/1.4069025).
 1. 2025/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has attended [The 31st International Conference on Computational & Experimental Engineering and Sciences (ICCES2025)](https://www.iccesconf.org/) in Changsha, China and has been awarded the **ICCES Outstanding Young Researcher Award**.
 1. 2025/05: Our paper, 'Achieving symmetric snap-through buckling via designed magnetic actuation.', has been published in [*Sci. Adv.*](https://www.science.org/doi/10.1126/sciadv.adw1259).
 1. 2025/05: Our paper, 'Localized tension–induced giant folding in unstructured elastic sheets.', has been published in [*PNAS*](https://doi.org/10.1073/pnas.2423439122) and **Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2025/new-discovery-in-localised-pulling-opens-up-opportunities-in-engineering-design) of the University of Birmingham.
