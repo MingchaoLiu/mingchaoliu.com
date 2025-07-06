@@ -39,6 +39,8 @@ Education
 
 Awards
 --------
+* 2025 **Founders' Awards - The Florence Price Award for Outstanding Early-Career Academic** by the University of Birmingham
+
 * 2025 **ICCES Outstanding Young Researcher Award** by the International Conference on Computational & Experimental Engineering and Sciences
 
 * 2025 **Mike Crisfield Prize** for best presentation by UKACM
@@ -62,6 +64,8 @@ Grants and Independent Fellowships
 
 Selected Publications
 --------
+1. Huang, W.†,\*, Hao, Z.†, Li, J.†, Tong, D.†, Guo, K., Zhang, Y., Gao, H.\*, Hsia, K.J.\*, **Liu, M.**\* (2025). [A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.](https://doi.org/10.1115/1.4069025) **Appl. Mech. Rev.**, In Press. [Preprint](https://arxiv.org/abs/2504.11417) [Website](http://www.ddgflexsim.com/)
+1. Guo, K.†, Suñé, M.†, Kwok, M.L., Hsia, K.J.\*, **Liu, M.**\*, Vella, D.\* (2025). [Localized tension–induced giant folding in unstructured elastic sheets.](https://doi.org/10.1073/pnas.2423439122) **Proc. Natl. Acad. Sci. U.S.A.** 122(20), e2423439122. [Preprint](https://arxiv.org/abs/2408.14239) (**Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2025/new-discovery-in-localised-pulling-opens-up-opportunities-in-engineering-design) of the University of Birmingham.)
 1. Tong, D., Hao, Z., **Liu, M.**\*, Huang, W.\* (2025). [Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning.](https://ieeexplore.ieee.org/document/10816482) **IEEE Robot. Autom. Lett.**, 10(2), 1720-1727.
 1. Huang, W., Yu, T.\*, Hsia, K.J., Adriaenssens, S., **Liu, M.**\* (2024). [Integration of kinks and creases enables tunable folding in meta-ribbons.](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2) **Matter**, 7(9), 3007-3023.
 1. Wang, Q., Giudici, A., Huang, W., Wang, Y., **Liu, M.**, Tawfick, S., Vella, D.\* (2024). [Transient amplification of broken symmetry in elastic snap-through.](https://journals.aps.org/prl/accepted/90079YdfZ741ae8797433601a2171528e12cc5935) **Phys. Rev. Lett.**, 132, 267201.
@@ -69,9 +73,7 @@ Selected Publications
 1. Yang, X., **Liu, M.**\*, Zhang, B., Wang, Z., Chen, T., Zhou, Y., Chen, Y., Hsia, K.J., Wang, Y.\* (2024). [Hierarchical tessellation enables general 3D shape-morphing structures.](https://authors.elsevier.com/c/1iBCZ9Cyxd31hR) **Matter**, 7, 603-619.
 1. Yang, X.\#, Zhou, Y.\#, Zhao, H., Huang, W., Wang, Y.\*, Hsia, K.J.\*, **Liu, M.**\* (2023). [Morphing matter: From mechanical principles to robotic applications.](https://softscijournal.com/accdata/6201) **Soft Science**, 3, 38. (**Featured** as the [**Front Cover**](https://i.oaes.cc/uploads/20231120/e8f42b68ac7c4d0b8b018269702c8918.jpg).)
 1. **Liu, M.**, Domino, L., Dupont de Dinechin, I., Taffetani, M., Vella, D.\* (2023). [Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells.](https://doi.org/10.1016/j.jmps.2022.105116) **J Mech. Phys. Solids**, 70, 105116.
-1. Meng, Z., **Liu, M.**, Yan, H., Genin, G.M., Chen, C.\* (2022). [Deployable mechanical metamaterials with multistep programmable transformation.](https://www.science.org/doi/10.1126/sciadv.abn5460) **Sci. Adv.**, 8(23), eabn5460.
 1. **Liu, M.**, Gomez, M., Vella, D.\* (2021). [Delayed bifurcation in elastic snap-through instabilities.](https://doi.org/10.1016/j.jmps.2021.104386) **J Mech. Phys. Solids**, 151, 104386.
-1. **Liu, M.**, Domino, L., Vella, D.\* (2020). [Tapered elasticæ as a route for axisymmetric morphing structures.](https://doi.org/10.1039/D0SM00714E) **Soft Matter**, 16, 7739–7750.
   
 Service and leadership
 --------
