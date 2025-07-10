@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 1. Huang, W.†,\*, Hao, Z.†, Li, J.†, Tong, D.†, Guo, K., Zhang, Y., Gao, H.\*, Hsia, K.J.\*, **Liu, M.**\* (2025). [A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.](https://doi.org/10.1115/1.4069025) **Appl. Mech. Rev.**, In Press. [Preprint](https://arxiv.org/abs/2504.11417) [Website](http://www.ddgflexsim.com/)
-1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. **Adv. Intell. Syst.**, Accepted. [Preprint](https://arxiv.org/abs/2502.00714).
+1. Li, J.†, Tong, D.†, Hao, Z.†, Zhu, Y., Wu, H., **Liu, M.**\*, Huang, W.\* (2025). [Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics.](https://doi.org/10.1002/aisy.202500141) **Adv. Intell. Syst.**, In Press. [Preprint](https://arxiv.org/abs/2502.00714).
 
 
 **2025**
