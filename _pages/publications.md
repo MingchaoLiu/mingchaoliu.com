@@ -15,6 +15,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. Guo, K.†, Zhang, Y.†, Paradiso, M., Long, Y., Hsia, K.J.\*, **Liu, M.**\* (2025). Midveins regulate the shape formation of drying leaves. Under Review. [Preprint](https://arxiv.org/abs/2507.01813)
 1. Duffy, D., Biggins, J., Griniasty, I., Yang, X., **Liu, M.**, Hsia, K.J., White, T.J., Mostajeran, C.\* (2025). Nematic Design for Shape Morphing. Under Review.
 1. Li, N., Zhang, Q., Huang, W.\*, Bai, C.\*, **Liu, M.**\* (2025). Dynamic snap-through of elastic beam under indentation. Under Review.
+1. Tang, A., Liu, J.\*, Liu, X., **Liu, M.**, Wei, X., Yang, Q.\* (2025). Harnessing Eversion Buckling for Ideal Omnidirectional Energy Absorption. Under Review.
 
 
 **Accepted and In Press**
