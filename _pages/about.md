@@ -18,6 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/schools/engineering/mechanical-e
 
 Recent News
 ======
+1. 2025/08: Our paper, 'Localization of deformation in the central hub of hub-and-spoke kirigami.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106298).
 1. 2025/07: Our paper, 'Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics.', has been published in [*Adv. Intell. Syst.*](https://doi.org/10.1002/aisy.202500141).
 1. 2025/07: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Florence Price Award for Outstanding Early-Career Academic** at the University of Birmingham [**Founders' Awards 2025**](https://www.birmingham.ac.uk/events/founders-awards/2025winners).
 1. 2025/06: Our paper, 'A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.', has been published in [*Appl. Mech. Rev.*](https://doi.org/10.1115/1.4069025).
