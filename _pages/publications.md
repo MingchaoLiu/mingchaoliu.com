@@ -13,8 +13,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <ol>
 <li value="5"><strong>Liu, M.</strong><sup>†,*</sup>, Mao, W.<sup>†</sup>, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.<sup>*</sup>, Hsia, K.J.<sup>*</sup> (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. Under Review. <a href="https://arxiv.org/abs/2404.19321">Preprint</a></li>
 <li value="4">Guo, K.<sup>†</sup>, Zhang, Y.<sup>†</sup>, Paradiso, M., Long, Y., Hsia, K.J.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2025). Midveins regulate the shape formation of drying leaves. Under Review. <a href="https://arxiv.org/abs/2507.01813">Preprint</a></li>
-<li value="3">Li, N., Zhang, Q., Huang, W.<sup>*</sup>, Bai, C.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2025). Dynamic snap-through of elastic beam under indentation. Under Review.</li>
-<li value="2">Li, J.<sup>†</sup>, Huang, W.<sup>†</sup>, Zhu, Y., Yu, L., Sun, X.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup>, Wu, H.<sup>*</sup> (2025). Inverse elastica: A theoretical framework for inverse design of morphing slender structures. Under Review.</li>
+<li value="3">Li, J.<sup>†</sup>, Huang, W.<sup>†</sup>, Zhu, Y., Yu, L., Sun, X.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup>, Wu, H.<sup>*</sup> (2025). Inverse elastica: A theoretical framework for inverse design of morphing slender structures. Under Review. <a href="https://arxiv.org/abs/2508.19673">Preprint</a></li>
+<li value="2">Li, N., Zhang, Q., Huang, W.<sup>*</sup>, Bai, C.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2025). Dynamic snap-through of elastic beam under indentation. Under Review.</li>
 <li value="1">Tang, A., Liu, J.<sup>*</sup>, Liu, X., <strong>Liu, M.</strong>, Wei, X., Yang, Q.<sup>*</sup> (2025). Harnessing Eversion Buckling for Ideal Omnidirectional Energy Absorption. Under Review.</li>
 </ol>
 
