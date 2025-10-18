@@ -5,7 +5,15 @@ permalink: /news/
 author_profile: true
 
 ---
+* 2025/10: Our paper, 'Midveins regulate the shape formation of drying leaves.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106391).
+* 2025/09: Our paper, 'Twist-Induced bifurcation and path manipulation in compressed ribbons.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106328).
+* 2025/08: Our paper, 'Localization of deformation in the central hub of hub-and-spoke kirigami.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106298).
+* 2025/07: Our paper, 'Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics.', has been published in [*Adv. Intell. Syst.*](https://doi.org/10.1002/aisy.202500141).
+* 2025/07: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Florence Price Award for Outstanding Early-Career Academic** at the University of Birmingham [**Founders' Awards 2025**](https://www.birmingham.ac.uk/events/founders-awards/2025winners).
+* 2025/06: Our paper, 'A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.', has been published in [*Appl. Mech. Rev.*](https://doi.org/10.1115/1.4069025).
+* 2025/06: Our paper, 'Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106198).
 * 2025/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has attended [The 31st International Conference on Computational & Experimental Engineering and Sciences (ICCES2025)](https://www.iccesconf.org/) in Changsha, China and has been awarded the **ICCES Outstanding Young Researcher Award**.
+* 2025/05: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) was invited to write a **Preview** article for [*Newton*](https://doi.org/10.1016/j.newton.2025.100107).
 * 2025/05: Our paper, 'Achieving symmetric snap-through buckling via designed magnetic actuation.', has been published in [*Sci. Adv.*](https://www.science.org/doi/10.1126/sciadv.adw1259).
 * 2025/05: Our paper, 'Localized tension–induced giant folding in unstructured elastic sheets.', has been published in [*PNAS*](https://doi.org/10.1073/pnas.2423439122) and **Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2025/new-discovery-in-localised-pulling-opens-up-opportunities-in-engineering-design) of the University of Birmingham.
 * 2025/04: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the **Mike Crisfield Prize** for best presentation by [UK Association for Computational Mechanics (UKACM)](https://ukacm.org/).
