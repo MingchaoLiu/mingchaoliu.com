@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mechanics of Adaptive Robotic Matter"
+title: "Adaptive & Intelligent Matter (AIM) Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We work at the intersection of mechanics, materials, and robotics, with the overarching goal of creating adaptive robotic systems that are intelligent by design—structures that can sense, respond, and reconfigure autonomously without relying on complex electronics or traditional control algorithms. By integrating nonlinear mechanics with AI-driven design methodologies, we aim to establish the foundations for a new class of adaptive robotic matter: soft machines and metamaterials that harness structural logic, mechanical instabilities, and environmental stimuli to achieve multifunctional performance.
+The Adaptive & Intelligent Matter (AIM) Lab explores how materials, structures, and mechanics can be harnessed to create systems that adapt, morph, and exhibit physical intelligence. By integrating nonlinear mechanics, metamaterial design, and soft robotics, we seek fundamental principles that enable mechanical intelligence—where adaptation and decision-making arise from the intrinsic dynamics of matter rather than from digital control. Our research spans multistable morphing structures, bio-inspired soft machines, and AI-driven inverse design of robotic systems. Through the convergence of solid mechanics, applied mathematics, and robotic materials, the AIM Lab advances adaptive and intelligent matter—structures capable of sensing, learning, and evolving with their environments.
 
 ![Research Summary](/figures/ResearchSummary_2507.png "Research Summary")
 
