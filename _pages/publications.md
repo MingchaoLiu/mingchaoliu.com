@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **2026**
 <ol>
 <li value="61">Guo, K.<sup>†</sup>, Zhang, Y.<sup>†</sup>, Paradiso, M., Long, Y., Hsia, K.J.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). <a href="https://doi.org/10.1016/j.jmps.2025.106391">Midveins regulate the shape formation of drying leaves.</a> <strong>J Mech. Phys. Solids</strong>, 206, 106391. <a href="https://arxiv.org/abs/2507.01813">Preprint</a></li>
-<li value="60">Feng, T., Chen, J., Wong, J.W., Li, S., Wang, Z., Li, X., Cao, J., Xue, Y., Yang, X.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup>, Li, T.<sup>*</sup> (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0022509625003047">Twisting-induced bifurcation and path manipulation in compressed ribbons.</a> <strong>J Mech. Phys. Solids</strong>, 206, 106328. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5226152">Preprint</a></li>
+<li value="60">Feng, T., Chen, J., Wong, J.W., Li, S., Wang, Z., Li, X., Cao, J., Xue, Y., Yang, X.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup>, Li, T.<sup>*</sup> (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0022509625003047">Twist-induced bifurcation and path manipulation in compressed ribbons.</a> <strong>J Mech. Phys. Solids</strong>, 206, 106328. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5226152">Preprint</a></li>
 </ol>
 
 **2025**
