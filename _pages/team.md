@@ -11,6 +11,9 @@ Current Members
 * Qun Zhang, PhD Student (09/2023 - )
 * Xinlu Deng, Visiting PhD student from Shanghai Jiaotong University (03/2025 - )
 * Dixuan Hu, Visiting PhD student from Tongji University (11/2025 - )
+* Arya Hajiyavand, Co-supervised PhD Student (09/2024 - )
+* Reuben Blakeway, Co-supervised PhD Student (01/2025 - )
+* Aida Fadakarsarkandi, Co-supervised PhD Student (01/2025 - )
 
 Alumni
 --------
