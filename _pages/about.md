@@ -18,6 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/staff/profiles/mechanical/liu-mi
 
 Recent News
 ======
+1. 2025/11: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the [**2025 JMPS Best Referee Award**](https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids/about/awards/best-referee-awards).
 1. 2025/10: Our paper, 'Midveins regulate the shape formation of drying leaves.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106391).
 1. 2025/09: Our paper, 'Twist-Induced bifurcation and path manipulation in compressed ribbons.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106328).
 1. 2025/08: Our paper, 'Localization of deformation in the central hub of hub-and-spoke kirigami.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106298).
