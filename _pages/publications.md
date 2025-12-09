@@ -22,8 +22,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Accepted and In Press**
 <ol>
 <li value="3">Huang, W.<sup>†,*</sup>, Hao, Z.<sup>†</sup>, Li, J.<sup>†</sup>, Tong, D.<sup>†</sup>, Guo, K., Zhang, Y., Gao, H.<sup>*</sup>, Hsia, K.J.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2025). <a href="https://doi.org/10.1115/1.4069025">A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.</a> <strong>Appl. Mech. Rev.</strong>, In Press. <a href="https://arxiv.org/abs/2504.11417">Preprint</a> <a href="http://www.ddgflexsim.com/">Website</a> (Highlighted in the <a href="https://www.birmingham.ac.uk/news/2025/comprehensive-tutorial-introduces-engineers-to-a-new-simulation-method-for-flexible-structures"><strong>News</strong></a> of the University of Birmingham.)</li>
-<li value="2"><strong>Liu, M.</strong><sup>†,*</sup>, Mao, W.<sup>†</sup>, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.<sup>*</sup>, Hsia, K.J.<sup>*</sup> (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. <strong>Matter</strong>, Accepted. <a href="https://arxiv.org/abs/2404.19321">Preprint</a></li>
-<li value="1">Duffy, D., Biggins, J., Griniasty, I., Yang, X., <strong>Liu, M.</strong>, Hsia, K.J., White, T.J., Mostajeran, C.<sup>*</sup> (2025). Nematic Design for Shape Morphing. <strong>Annu. Rev. Control Robot. Auton. Syst.</strong>, Accepted.</li>
+<li value="2">Duffy, D., Biggins, J., Griniasty, I., Yang, X., <strong>Liu, M.</strong>, Hsia, K.J., White, T.J., Mostajeran, C.<sup>*</sup> (2025). <a href="https://doi.org/10.1146/annurev-control-030624-011240">Nematic Design for Shape Morphing.</a> <strong>Annu. Rev. Control Robot. Auton. Syst.</strong>, In Press.</li>
+<li value="1"><strong>Liu, M.</strong><sup>†,*</sup>, Mao, W.<sup>†</sup>, Zhao, Y., Xu, Q., Gan, Y., Wang, Y.<sup>*</sup>, Hsia, K.J.<sup>*</sup> (2025). Rate-Dependence in Granular Matter with Application to Tunable Metamaterials. <strong>Matter</strong>, Accepted. <a href="https://arxiv.org/abs/2404.19321">Preprint</a></li>
 </ol>
 
 
