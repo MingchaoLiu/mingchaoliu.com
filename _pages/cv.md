@@ -77,6 +77,7 @@ Selected Publications
   
 Service and leadership
 --------
+* Editor: [*Acta Mechanica Sinica*](https://link.springer.com/journal/10409/editorial-board)
 * Early Career Advisory Board (EML-ECAB), Special Editor for Social Media Engagement: [*Extreme Mechanics Letters*](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
 * Youth Editorial Board: [*Soft Science*](https://softscijournal.com/)
 
