@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <ol>
 <li value="4">Huss, J.C.<sup>*</sup>, Box, F., Groemmer, M.A., Antreich, S.J., Zhang, Q., Ovee, T.A., Louf, J.F., Schoenenberger, J., Williams, D.G., Gierlinger, N., <strong>Liu, M.</strong>, Hultine, K.R. (2025). Humidity-driven shape morphing enhances fog harvesting in porous cactus spines. Under Review. <a href="https://doi.org/10.1101/2025.10.07.676731">Preprint</a></li>
 <li value="3">Zhang, Y.<sup>†</sup>, Zhou, Y.<sup>†</sup>, Wen, Z., <strong>Liu, M.</strong>, Chen, C.<sup>*</sup> (2025). A Pseudo-Dynamic Paradigm for Reprogramming Domain-Wall-Lattices in Architected Solids. Under Review.</li>
-<li value="2">Tang, A., Liu, J.<sup>*</sup>, Liu, X., <strong>Liu, M.</strong>, Wei, X., Yang, Q.<sup>*</sup> (2025). Harnessing Eversion Buckling for Ideal Omnidirectional Energy Absorption. Under Review.</li>
+<li value="2">Tang, A., Liu, J.<sup>*</sup>, Liu, X., <strong>Liu, M.</strong>, Wei, X., Yang, Q.<sup>*</sup> (2025). Harnessing Eversion Buckling for Ideal Omnidirectional Energy Absorption. Under Review.</li> <a href="https://arxiv.org/abs/2512.19987">Preprint</a></li>
 <li value="1">Li, N., Zhang, Q., Huang, W.<sup>*</sup>, Bai, C.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2025). Dynamic snap-through of elastic beam under indentation. Under Review.</li>
 </ol>
 
