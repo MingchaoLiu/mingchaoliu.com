@@ -7,7 +7,7 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=nA_cUTAAAAAJ&hl=en) profile. (* Corresponding author; † Equal contribution)
 
-![Cover Images](/figures/CoverImages_2406.png "Cover Images")
+![Cover Images](/figures/CoverImages_2601.png "Cover Images")
 
 **Under review**
 <ol>
