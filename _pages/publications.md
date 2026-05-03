@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Under review**
 <ol>
+<li value="6">Zhang, Q., Huang, W.<sup>*</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). Dimple-Encoded Reprogrammable Origami. Under Review. <a href="https://arxiv.org/abs/">Preprint</a></li>  
 <li value="5">Li, J.<sup>†</sup>, Zhang, Y.<sup>†</sup>, Huang, W.<sup>†</sup>, Ye, S., Wu, H.<sup>*</sup>, Vella, D.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). Inverse design of a magneto-elastica for shape-morphing. Under Review. <a href="https://arxiv.org/abs/2604.12938">Preprint</a></li>
 <li value="4">Huss, J.C.<sup>*</sup>, Box, F., Groemmer, M.A., Antreich, S.J., Zhang, Q., Ovee, T.A., Louf, J.F., Schoenenberger, J., Williams, D.G., Gierlinger, N., <strong>Liu, M.</strong>, Hultine, K.R. (2026). Humidity-driven shape morphing enhances fog harvesting in porous cactus spines. Under Review. <a href="https://doi.org/10.1101/2025.10.07.676731">Preprint</a></li>
 <li value="3">Zhang, B., Wang, B., Ouyang, H., Wu, Z., Bi, H., Xu, J., <strong>Liu, M.</strong><sup>*</sup>, Huang, W.<sup>*</sup> (2026). From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami. Under Review. <a href="https://arxiv.org/abs/2603.14900">Preprint</a></li>
