@@ -25,7 +25,7 @@ Recent News
 1. 2025/12: Our paper, 'Inverse elastica: A theoretical framework for inverse design of morphing slender structures.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106488).
 1. 2025/12: Our paper, 'Nematic Design for Shape Morphing.', has been published in [*Annu. Rev. Control Robot. Auton. Syst.*](https://doi.org/10.1146/annurev-control-030624-011240).
 1. 2025/12: Our paper, 'Discrete differential geometry for simulating nonlinear behaviors of flexible systems: A survey.', has been published in [*EML*](https://doi.org/10.1016/j.eml.2025.102430).
-1. 2025/11: Miss. Dixuan Hu from Tongji University has joined the group as a visiting PhD student. Welcome!
+1. 2025/11: Dixuan Hu from Tongji University has joined the group as a visiting PhD student. Welcome!
 1. 2025/11: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been awarded the [**2025 JMPS Best Referee Award**](https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids/about/awards/best-referee-awards).
 1. 2025/10: Our paper, 'Midveins regulate the shape formation of drying leaves.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106391) and **Highlighted** in the [**News**](https://www.birmingham.ac.uk/news/2025/why-dry-leaves-curl-and-fold-the-hidden-mechanics-behind-natures-designs) of the University of Birmingham.
 1. 2025/09: Our paper, 'Twist-Induced bifurcation and path manipulation in compressed ribbons.', has been published in [*JMPS*](https://doi.org/10.1016/j.jmps.2025.106328).
