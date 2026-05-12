@@ -22,7 +22,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 <ol>
-<li value="3">Zhang, Y.<sup>†</sup>, Zhou, Y.<sup>†</sup>, Wen, Z., <strong>Liu, M.</strong>, Chen, C.<sup>*</sup> (2026). A Pseudo-Dynamic Paradigm for Reprogramming Domain-Wall-Lattices in Architected Solids. Nat. Comm., Accepted.</li>
+<li value="3">Zhang, Y.<sup>†</sup>, Zhou, Y.<sup>†</sup>, Wen, Z., <strong>Liu, M.</strong>, Chen, C.<sup>*</sup> (2026). <a href="https://doi.org/10.1038/s41467-026-73096-y">A Pseudo-Dynamic Paradigm for Reprogramming Domain-Wall-Lattices in Architected Solids.</a> Nat. Comm., In Press.</li>
 <li value="2">Guo, H., Lu, L., <strong>Liu, M.</strong>, Papageorgiou, D.G., Bilotti, E., Liu, Y.<sup>*</sup> (2026). <a href="https://iopscience.iop.org/article/10.1088/2631-7990/ae6492">Advances in Personalised Wearable Heating and Cooling Technologies.</a> Int. J. Extreme Manuf., In Press.</li>
 <li value="1">Huang, W.<sup>†,*</sup>, Hao, Z.<sup>†</sup>, Li, J.<sup>†</sup>, Tong, D.<sup>†</sup>, Guo, K., Zhang, Y., Gao, H.<sup>*</sup>, Hsia, K.J.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). <a href="https://doi.org/10.1115/1.4069025">A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method.</a> <strong>Appl. Mech. Rev.</strong>, In Press. <a href="https://arxiv.org/abs/2504.11417">Preprint</a> <a href="http://www.ddgflexsim.com/">Website</a> (Highlighted in the <a href="https://www.birmingham.ac.uk/news/2025/comprehensive-tutorial-introduces-engineers-to-a-new-simulation-method-for-flexible-structures"><strong>News</strong></a> of the University of Birmingham.)</li>
 </ol>
