@@ -39,6 +39,8 @@ Education
 
 Awards
 --------
+* 2025 **Best Referee Award** of Journal of the Mechanics and Physics of Solids
+
 * 2025 **Founders' Awards - The Florence Price Award for Outstanding Early-Career Academic** by the University of Birmingham
 
 * 2025 **ICCES Outstanding Young Researcher Award** by the International Conference on Computational & Experimental Engineering and Sciences
