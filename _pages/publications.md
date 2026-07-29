@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Under review**
 <ol>
+<li value="7">Hou, C.<sup>†</sup>, Xu, Z.<sup>†</sup>, Bai, Y.<sup>†</sup>, Cheng, W., Yuan, L., Lyu, Y., Xie, H., Wu, X., He, Q., Ling, J., Pan, J., He, W., Liu, Y., Zhu, Y., Zhou, Y., Ma, Y., <strong>Liu, M.</strong>, Zhang, Y., Yin, Z.<sup>*</sup>, Fleck, N.A.<sup>*</sup>, Huang, Y.<sup>*</sup>, Li, K.<sup>*</sup> (2026). Stretchable Electronics for Extreme Environments: Ceramic Aerogel Metamaterials Enable High-temperature Sensing. Under Review. <a href="https://www.researchsquare.com/article/rs-10004662/v1">Preprint</a></li>
 <li value="6">Huang, W.<sup>*</sup>, Zhang, Q., Zhang, B., <strong>Liu, M.</strong><sup>*</sup> (2026). Bifurcation reordering programs snap-through symmetry in folded elastic ribbons. Under Review. <a href="https://arxiv.org/abs/2607.15706">Preprint</a></li>
 <li value="5">Zhang, Q., Doustdar, O., Kim, H., Dancer, C., Dai, Z., Huang, W.<sup>*</sup>, Dearn, K.<sup>*</sup>, Vella, D.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). Learning to Program Dimple-Encoded Strips for Morphing Architectures. Under Review. </li>
 <li value="4">Li, J.<sup>†</sup>, Zhang, Y.<sup>†</sup>, Huang, W.<sup>†</sup>, Ye, S., Wu, H.<sup>*</sup>, Vella, D.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). Inverse design of a magneto-elastica for shape-morphing. Under Review. <a href="https://arxiv.org/abs/2604.12938">Preprint</a></li>
