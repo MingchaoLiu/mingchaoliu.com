@@ -18,6 +18,7 @@ Dr. [Mingchao Liu](https://www.birmingham.ac.uk/staff/profiles/mechanical/liu-mi
 
 Recent News
 ======
+1. 2026/09: Yaxuan Wen has joined the group as a MSc student. Welcome!
 1. 2026/08: Qun's first first-author paper, 'Dimple-Encoded Reprogrammable Origami.', has been published in [*Adv. Sci.*](https://doi.org/10.1002/advs.76901) Congratulations!
 1. 2026/07: [*Dr. Liu*](https://www.birmingham.ac.uk/schools/engineering/mechanical-engineering/people/profile.aspx?ReferenceId=205089&Name=dr-mingchao-liu) has been shortlisted for the [Falling Walls Science Breakthrough of the Year 2026](https://falling-walls.com/breakthrough-shortlist-2026) in the Engineering & Technology category.
 1. 2026/05: Our paper, 'A pseudo-dynamic paradigm for reprogramming domain-wall-lattices in architected solids.', has been published in [*Nat. Commu.*](https://doi.org/10.1038/s41467-026-73096-y)
