@@ -23,7 +23,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 <ol>
-<li value="3">Huss, J.C.<sup>*</sup>, Box, F., Groemmer, M.A., Antreich, S.J., Zhang, Q., Ovee, T.A., Louf, J.F., Schoenenberger, J., Williams, D.G., Gierlinger, N., <strong>Liu, M.</strong>, Hultine, K.R. (2026). Humidity-driven shape morphing enhances fog harvesting in porous cactus spines. New Phytol., Accepted. <a href="https://doi.org/10.1101/2025.10.07.676731">Preprint</a></li>
+<li value="3">Huss, J.C.<sup>*</sup>, Box, F., Groemmer, M.A., Antreich, S.J., Zhang, Q., Ovee, T.A., Louf, J.F., Schoenenberger, J., Williams, D.G., Gierlinger, N., <strong>Liu, M.</strong>, Hultine, K.R. (2026). <a href="https://doi.org/10.1111/nph.71648">Humidity-driven shape morphing enhances fog harvesting in porous cactus spines.</a> New Phytol., In Press. <a href="https://doi.org/10.1101/2025.10.07.676731">Preprint</a></li>
 <li value="2">Zhang, Q., Huang, W.<sup>*</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). <a href="https://doi.org/10.1002/advs.76901">Dimple-Encoded Reprogrammable Origami.</a> <strong>Adv. Sci.</strong>, In Press. </li>
 <li value="1">Zhang, B., Wang, B., Ouyang, H., Wu, Z., Bi, H., Xu, J., <strong>Liu, M.</strong><sup>*</sup>, Huang, W.<sup>*</sup> (2026). <a href="https://doi.org/10.1002/advs.76715">From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami.</a> Adv. Sci., In Press. </li>
 </ol>
