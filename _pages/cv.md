@@ -11,6 +11,11 @@ redirect_from:
 
 Work experience
 --------
+* Oct. 2026 - now: Visiting Scientist
+  * University of Birmingham
+  * Massachusetts Institute of Technology
+  * Host: Prof. Carlos M. Portela
+
 * Sept. 2023 - now: Assistant Professor
   * University of Birmingham
 
