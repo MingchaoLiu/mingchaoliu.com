@@ -9,7 +9,7 @@ author_profile: true
 Current Members
 --------
 * Qun Zhang, PhD Student (09/2023 - )
-* Xinlu Deng, Visiting PhD student from Shanghai Jiaotong University (03/2025 - )
+* Yaxuan Wen, MSc student (09/2026 - )
 * Dixuan Hu, Visiting PhD student from Tongji University (11/2025 - )
 * Arya Hajiyavand, Co-supervised PhD Student (09/2024 - )
 * Reuben Blakeway, Co-supervised PhD Student (01/2025 - )
@@ -17,9 +17,11 @@ Current Members
 
 Alumni
 --------
-* Weining Mao, Research Associate (07/2022 - 06/2023, taken the position at NTU), Currently PhD student at NTU.
-* Nan Li, Visiting PhD student from Xi'an Jiaotong University (11/2023 - 10/2024)
+* Xinlu Deng, Visiting PhD student from Shanghai Jiaotong University (03/2025 - 03/2026)
 * Zehui Peng, MSc student (06/2024 - 09/2024)
+* Nan Li, Visiting PhD student from Xi'an Jiaotong University (11/2023 - 10/2024)
+* Weining Mao, Research Associate (07/2022 - 06/2023, taken the position at NTU), Currently PhD student at NTU.
+
 
 Collaborators
 --------
