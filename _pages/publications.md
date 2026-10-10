@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **2027**
 <ol>
 <li value="71">Liu, J.<sup>†,*</sup>, Tang, A.<sup>†</sup>, <strong>Liu, M.</strong>, Wei, X., Yang, Q.<sup>*</sup> (2027). <a href="https://doi.org/10.1016/j.jmps.2026.106832">Eversion Buckling of Toroidal Shells: Mechanism, Bifurcation, and Applications in Energy Absorption.</a> J Mech. Phys. Solids, 218, 106832. </li>
-<li value="70">Li, J., <strong>Liu, M.</strong>, Liang, H., Wu, H.<sup>*</sup>, Huang, W.<sup>*</sup> (2027). <a href="https://doi.org/10.1016/j.cma.2026.119355">Inverse Discrete Elastic Rod: A numerical framework for inverse design of slender structures.</a> Comput. Methods Appl. Mech. Eng., 463, 119355.
+<li value="70">Li, J., <strong>Liu, M.</strong>, Liang, H., Wu, H.<sup>*</sup>, Huang, W.<sup>*</sup> (2027). <a href="https://doi.org/10.1016/j.cma.2026.119355">Inverse Discrete Elastic Rod: A numerical framework for inverse design of slender structures.</a> Comput. Methods Appl. Mech. Eng., 463, 119355. </li>
 </ol>
 
 
