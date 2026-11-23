@@ -23,7 +23,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Accepted and In Press**
 <ol>
-<li value="3">Zhang, Q., Doustdar, O., Kim, H., Dancer, C., Dai, Z., Huang, W.<sup>*</sup>, Dearn, K.<sup>*</sup>, Vella, D.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). Learning to Program Dimple-Encoded Strips for Morphing Architectures. <strong>Adv. Mater.</strong>, Accepted </li>
+<li value="3">Zhang, Q., Doustdar, O., Kim, H., Dancer, C., Dai, Z., Huang, W.<sup>*</sup>, Dearn, K.<sup>*</sup>, Vella, D.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). <a href="https://doi.org/10.1002/adma.75796">Learning to Program Dimple-Encoded Strips for Morphing Architectures.</a> <strong>Adv. Mater.</strong>, e75796. </li>
 <li value="2">Zhang, Q., Huang, W.<sup>*</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K.<sup>*</sup>, <strong>Liu, M.</strong><sup>*</sup> (2026). <a href="https://doi.org/10.1002/advs.76901">Dimple-Encoded Reprogrammable Origami.</a> <strong>Adv. Sci.</strong>, e76901. </li>
 <li value="1">Zhang, B., Wang, B., Ouyang, H., Wu, Z., Bi, H., Xu, J., <strong>Liu, M.</strong><sup>*</sup>, Huang, W.<sup>*</sup> (2026). <a href="https://doi.org/10.1002/advs.76715">From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami.</a> Adv. Sci., e76715. </li>
 </ol>
